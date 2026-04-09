@@ -1,19 +1,22 @@
-import { Button } from "@/components/ui/button"
+import Gallery from "@/components/gallery";
+import Social from "@/components/social";
+import { settings } from "@/config";
 
 export default function Page() {
-  return (
-    <div className="flex min-h-svh p-6">
-      <div className="flex max-w-md min-w-0 flex-col gap-4 text-sm leading-loose">
-        <div>
-          <h1 className="font-medium">Project ready!</h1>
-          <p>You may now add components and start building.</p>
-          <p>We&apos;ve already added the button component for you.</p>
-          <Button className="mt-2">Button</Button>
-        </div>
-        <div className="font-mono text-xs text-muted-foreground">
-          (Press <kbd>d</kbd> to toggle dark mode)
-        </div>
-      </div>
-    </div>
-  )
+	const { name, motto } = settings;
+
+	return (
+		<main className="">
+			<div className="h-[40svh] flex flex-col justify-center items-center space-y-4">
+				<Social />
+				<div className="space-y-2" data-speed="0.8">
+					<h1 className="text-4xl font-bold text-center">{name}'s Gallery</h1>
+					{motto ? (
+						<p className="text-lg text-muted-foreground text-center">{motto}</p>
+					) : null}
+				</div>
+			</div>
+			<Gallery />
+		</main>
+	);
 }
