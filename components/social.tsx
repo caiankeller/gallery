@@ -1,5 +1,6 @@
 import {
 	IconArrowUpRight,
+	IconBrandBehance,
 	IconBrandGithub,
 	IconBrandInstagram,
 	IconBrandPinterest,
@@ -33,6 +34,10 @@ export default function Social() {
 			label: "GitHub",
 			icon: <IconBrandGithub />,
 			url: settings.social.github,
+		},{
+			label: "Behance",
+			icon: <IconBrandBehance />,
+			url: settings.social.behance,
 		},
 	].filter((link): link is typeof link & { url: string } => !!link.url);
 
@@ -47,7 +52,7 @@ export default function Social() {
 	}
 
 	return (
-		<div className="flex gap-1.5 flex-wrap justify-center" data-speed="0.9">
+		<div className="flex gap-1.5 flex-wrap justify-center" data-speed="0.95">
 			{email && (
 				<Button asChild className="group" size="sm" variant="link">
 					<Link href={`mailto:${email}`}>
