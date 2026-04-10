@@ -1,9 +1,10 @@
-'use client';
+"use client";
 
-import { IconChevronDown } from "@tabler/icons-react";
+import { IconX } from "@tabler/icons-react";
 import { AnimatePresence, motion } from "motion/react";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { settings } from "@/config";
@@ -11,87 +12,135 @@ import type { IGalleryItem } from "@/gallery/gallery.schema";
 
 interface IProps {
 	photo: IGalleryItem;
-	index: number;
 }
 
-export default function Photo({ photo, index }: IProps) {
+export default function Photo({ photo }: IProps) {
 	const { hideMetadata } = settings;
+	const [isModalOpen, setIsModalOpen] = useState(false);
+	const [mounted, setMounted] = useState(false);
 
-	const [isOpen, setIsOpen] = useState(false);
-	const toggle = () => setIsOpen((prev) => !prev);
+	useEffect(() => {
+		setMounted(true);
+	}, []);
 
-	const hasCamera = Boolean(photo.camera);
-	const hasDimensions = Boolean(photo.width && photo.height);
-	const hasSettings = Boolean(photo.cameraSettings);
-	const hasMetadata = hasCamera || hasDimensions || hasSettings;
+	useEffect(() => {
+		document.body.style.overflow = isModalOpen ? "hidden" : "";
+		return () => {
+			document.body.style.overflow = "";
+		};
+	}, [isModalOpen]);
+
+	const photoId = `photo-anim-${photo.filename}`;
 
 	return (
-		<div className="break-inside-avoid relative group">
-			<Image
-				// sorry blind people, got you guys real quick
-				alt=""
-				className="w-full h-auto block"
-				height={photo.height}
-				priority={index < 4}
-				src={`/photos/${photo.filename}`}
-				width={photo.width}
-			/>
+		<div className="break-inside-avoid relative group mb-6">
+			<motion.div
+				className="cursor-zoom-in overflow-hidden bg-muted relative group/image"
+				layoutId={photoId}
+				onClick={() => setIsModalOpen(true)}
+			>
+				<Image
+					// not the best, but a little better
+					alt={photo.caption ?? ""}
+					className="w-full h-auto block hover:opacity-90 transition-opacity"
+					height={photo.height}
+					priority={true}
+					src={`/photos/${photo.filename}`}
+					width={photo.width}
+				/>
+				{photo.caption && (
+					<motion.div className="p-2 absolute backdrop-blur-xl bottom-0 w-full overflow-clip group-hover/image:opacity-100 transition-opacity duration-300 opacity-0 bg-background/80">
+						<p className="text-xs font-semibold">{photo.caption}</p>
+					</motion.div>
+				)}
+			</motion.div>
 
-			{!hideMetadata && hasMetadata && (
-				<div className="flex flex-col gap-2 p-2 bg-foreground/5">
+			{mounted &&
+				createPortal(
+					<AnimatePresence mode="wait">
+						{isModalOpen && (
+							<div className="fixed inset-0 z-9 flex items-center justify-center p-4">
+								<motion.div
+									animate={{ opacity: 1 }}
+									className="absolute inset-0 bg-black/90 backdrop-blur-md cursor-zoom-out"
+									exit={{ opacity: 0 }}
+									initial={{ opacity: 0 }}
+									onClick={() => setIsModalOpen(false)}
+								/>
+
+								<motion.div
+									className="relative z-10 max-w-full max-h-full flex items-center justify-center pointer-events-none"
+									layoutId={photoId}
+									transition={{ type: "spring", duration: 0.5, bounce: 0.1 }}
+								>
+									{/** biome-ignore lint/performance/noImgElement: Image/next is not very recommended here */}
+									<img
+										alt=""
+										className="max-w-full max-h-[90vh] object-contain shadow-2xl pointer-events-auto"
+										src={`/photos/${photo.filename}`}
+									/>
+
+									<Button
+										className="absolute -top-8 right-0"
+										onClick={(e) => {
+											e.stopPropagation();
+											setIsModalOpen(false);
+										}}
+										size="icon-xs"
+									>
+										<IconX size={32} />
+									</Button>
+								</motion.div>
+							</div>
+						)}
+					</AnimatePresence>,
+					document.body,
+				)}
+
+			{!hideMetadata && hasMetadata(photo) && (
+				<div className="flex flex-col p-2.5 bg-foreground/3">
 					<div className="flex items-center justify-between gap-2">
 						<div className="grid gap-1">
-							{hasCamera && (
-								<p className="text-xs uppercase font-mono text-muted-foreground font-medium leading-none">
-									{photo.camera}
+							{photo.camera && (
+								<p className="text-[10px] uppercase font-mono text-primary font-bold leading-none">
+									{new Date(photo.date).toLocaleDateString("en-US", {
+										month: "short",
+										year: "2-digit",
+										day: "2-digit",
+									})}
 								</p>
 							)}
-
-							{hasDimensions && (
-								<p className="text-sm uppercase font-mono text-muted-foreground font-medium leading-none">
-									{photo.width} × {photo.height}
-								</p>
-							)}
+							<p className="text-xs uppercase font-mono text-muted-foreground font-medium leading-none">
+								{photo.width} × {photo.height}
+							</p>
 						</div>
-
-						{hasSettings && (
-							<Button onClick={toggle} size="icon-xs" variant="secondary">
-								<motion.div
-									animate={{ rotate: isOpen ? 180 : 0 }}
-									transition={{ type: "spring", stiffness: 300, damping: 20 }}
-								>
-									<IconChevronDown size={16} />
-								</motion.div>
-							</Button>
-						)}
 					</div>
 
-					<AnimatePresence initial={false}>
-						{isOpen && hasSettings && (
-							<motion.div
-								animate={{ height: "auto", opacity: 1 }}
-								className="overflow-hidden"
-								exit={{ height: 0, opacity: 0 }}
-								initial={{ height: 0, opacity: 0 }}
-								transition={{ duration: 0.2 }}
-							>
-								<Separator className="mb-2" />
-
-								<div className="space-y-1.5 pb-1">
-									{Object.entries(photo.cameraSettings!).map(([key, value]) => (
-										<p
-											className="text-xs uppercase font-mono text-muted-foreground font-medium leading-none"
-											key={key}
-										>
-											<span className="opacity-70">{key}:</span> {String(value)}
-										</p>
-									))}
-								</div>
-							</motion.div>
+					<Separator className="my-1.5 opacity-50" />
+					<div className="space-y-1">
+						{photo.cameraSettings ? (
+							Object.entries(photo.cameraSettings).map(([key, value]) => (
+								<p
+									className="text-xs uppercase font-mono text-muted-foreground font-medium leading-none"
+									key={key}
+								>
+									<span className="opacity-50">{key}:</span> {String(value)}
+								</p>
+							))
+						) : (
+							<p className="text-xs uppercase font-mono text-muted-foreground opacity-50 font-medium leading-none">
+								No Metadata to show.
+							</p>
 						)}
-					</AnimatePresence>
+					</div>
 				</div>
 			)}
 		</div>
+	);
+}
+
+function hasMetadata(photo: IGalleryItem) {
+	return Boolean(
+		photo.camera || (photo.width && photo.height) || photo.cameraSettings,
 	);
 }
