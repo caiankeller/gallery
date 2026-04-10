@@ -17,7 +17,7 @@ export const GalleryItemSchema = z.object({
 	width: z.number().optional(),
 	height: z.number().optional(),
 	camera: z.string(),
-	date: z.string().datetime(),
+	date: z.string(),
 	cameraSettings: CameraSettingsSchema,
 	caption: z.string().default(""),
 });

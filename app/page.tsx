@@ -9,11 +9,11 @@ export default function Page() {
 		<main className="">
 			<div className="h-[40svh] flex flex-col justify-center items-center space-y-4">
 				<Social />
-				<div className="space-y-2" data-speed="0.8">
-					<h1 className="text-4xl font-bold text-center">{name}'s Gallery</h1>
+				<div className="space-y-2">
 					{motto ? (
-						<p className="text-lg text-muted-foreground text-center">{motto}</p>
+						<p className="text-lg text-primary-muted text-center" data-speed="0.8">{motto}</p>
 					) : null}
+					<h1 className="text-4xl font-bold text-center" data-speed="0.75">{name}'s Gallery</h1>
 				</div>
 			</div>
 			<Gallery />
