@@ -34,7 +34,8 @@ export default function Social() {
 			label: "GitHub",
 			icon: <IconBrandGithub />,
 			url: settings.social.github,
-		},{
+		},
+		{
 			label: "Behance",
 			icon: <IconBrandBehance />,
 			url: settings.social.behance,
@@ -45,20 +46,23 @@ export default function Social() {
 
 	if (!hasContent) {
 		return (
-			<p className="text-sm text-muted-foreground">
+			<p className="text-muted-foreground text-sm">
 				No contact options available.
 			</p>
 		);
 	}
 
 	return (
-		<div className="flex gap-1.5 flex-wrap justify-center" data-speed="0.95">
+		<div
+			className="flex flex-wrap justify-center gap-1.5 gap-y-2.5"
+			data-speed="0.95"
+		>
 			{email && (
 				<Button asChild className="group" size="sm" variant="link">
 					<Link href={`mailto:${email}`}>
 						<IconMail />
 						E-mail me
-						<IconArrowUpRight className="transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+						<IconArrowUpRight className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
 					</Link>
 				</Button>
 			)}
@@ -68,7 +72,7 @@ export default function Social() {
 					<Link href={url} rel="noopener noreferrer" target="_blank">
 						{icon}
 						{label}
-						<IconArrowUpRight className="transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+						<IconArrowUpRight className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
 					</Link>
 				</Button>
 			))}

@@ -17,18 +17,18 @@ export const metadata: Metadata = {
 	icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
-type Props = Readonly<{
+type TProps = Readonly<{
 	children: React.ReactNode;
 }>;
 
-export default function RootLayout({ children }: Props) {
+export default function RootLayout({ children }: TProps) {
 	return (
 		<html
 			className={cn("antialiased", "font-sans", bricolageGrotesque.variable)}
 			lang="en"
 			suppressHydrationWarning
 		>
-			<body className="scroll-smooth bg-neutral-50 font-thin antialiased selection:bg-primary selection:text-primary-foreground before:pointer-events-none before:fixed before:z-1 before:h-screen before:w-screen before:bg-[url(/noise.png)] before:opacity-60 before:mix-blend-difference before:invert after:pointer-events-none after:fixed after:inset-0 after:z-1 dark:bg-neutral-950 dark:before:opacity-30 tracking-tight">
+			<body className="scroll-smooth bg-neutral-50 font-thin tracking-tight antialiased selection:bg-primary selection:text-primary-foreground before:pointer-events-none before:fixed before:z-1 before:h-screen before:w-screen before:bg-[url(/noise.png)] before:opacity-60 before:mix-blend-difference before:invert after:pointer-events-none after:fixed after:inset-0 after:z-1 dark:bg-neutral-950 dark:before:opacity-30">
 				<div className="pointer-events-none fixed inset-0 z-0 bg-[url(/topography.png)] bg-center bg-cover opacity-3 dark:opacity-1 dark:invert" />
 				<ThemeProvider>
 					<ScrollSmootherWrapper>{children}</ScrollSmootherWrapper>

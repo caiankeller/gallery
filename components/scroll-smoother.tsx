@@ -7,16 +7,16 @@ import type { ReactNode } from "react";
 
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
-interface Props {
+interface IProps {
 	children: ReactNode;
 }
 
-export default function ScrollSmootherWrapper({ children }: Props) {
+export default function ScrollSmootherWrapper({ children }: IProps) {
 	useGSAP(() => {
 		ScrollSmoother.create({
 			smooth: 2,
 			effects: true,
-			smoothTouch: 0.1,
+			smoothTouch: 0.5,
 		});
 	});
 

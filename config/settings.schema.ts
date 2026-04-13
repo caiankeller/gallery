@@ -1,6 +1,7 @@
 import { z } from "zod";
+import { LicenseSchema } from "../gallery/gallery.schema.ts";
 
-const url = z.string().url().trim();
+const url = z.url().trim();
 const optionalUrl = url
 	.nullable()
 	.or(z.literal(""))
@@ -9,7 +10,12 @@ const optionalUrl = url
 export const settingsSchema = z.object({
 	name: z.string(),
 	motto: z.string().nullable(),
+
 	device: z.string().nullable(),
+
+	defaultLicense: LicenseSchema,
+	showLicense: z.boolean(),
+
 	hideMetadata: z.boolean(),
 
 	email: z.string().trim(),
