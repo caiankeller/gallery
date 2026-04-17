@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { Bricolage_Grotesque } from "next/font/google";
+import ReturnToTop from "@/components/return-to-top";
 import ScrollSmootherWrapper from "@/components/scroll-smoother";
 import { ThemeProvider } from "@/components/theme-provider";
 import { settings } from "@/config";
 import { cn } from "@/lib/utils";
+
 import "./globals.css";
 
 const bricolageGrotesque = Bricolage_Grotesque({
@@ -32,6 +34,7 @@ export default function RootLayout({ children }: TProps) {
 				<div className="pointer-events-none fixed inset-0 z-0 bg-[url(/topography.png)] bg-center bg-cover opacity-3 dark:opacity-1 dark:invert" />
 				<ThemeProvider>
 					<ScrollSmootherWrapper>{children}</ScrollSmootherWrapper>
+					<ReturnToTop />
 				</ThemeProvider>
 			</body>
 		</html>

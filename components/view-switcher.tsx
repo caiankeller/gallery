@@ -18,6 +18,8 @@ export default function ViewSwitcher({ currentView, albumsCount }: IProps) {
 	const router = useRouter();
 
 	const handleClick = (view: TView) => {
+		if (view === "all") return router.replace("/");
+
 		const params = new URLSearchParams(searchParams.toString());
 		params.set("view", view);
 		router.replace(`${pathname}?${params.toString()}`);

@@ -30,12 +30,14 @@ export const GalleryItemSchema = z.object({
 	id: z.string(),
 	filename: z.string(),
 	width: z.number().optional(),
+	pinned: z.boolean().optional(),
 	height: z.number().optional(),
 	album: AlbumMetadataSchema,
 	camera: z.string(),
 	date: z.string(),
 	cameraSettings: CameraSettingsSchema,
 	sourcePath: z.string(),
+	isPinned: z.boolean(),
 	caption: z.string().default(""),
 	license: LicenseSchema.default(settings.defaultLicense),
 });
@@ -48,6 +50,7 @@ export const AlbumGroupSchema = z.object({
 
 export const GalleryManifestSchema = z.object({
 	all: z.array(GalleryItemSchema),
+	pinned: z.array(GalleryItemSchema),
 	albums: z.array(AlbumGroupSchema),
 });
 

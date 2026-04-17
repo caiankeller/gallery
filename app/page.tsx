@@ -4,7 +4,6 @@ import ViewSwitcher from "@/components/view-switcher";
 import { settings } from "@/config";
 import { GalleryManifestSchema } from "@/gallery/gallery.schema";
 import manifest from "@/gallery/manifest.json";
-import { redirect } from "next/navigation";
 
 export type TView = "albums" | "all";
 
@@ -21,13 +20,8 @@ export default async function Page({ searchParams }: TProps) {
 
 	const { view } = await searchParams;
 
-	const currentView: TView = view === "all" ? "all" : "albums";
-
+	const currentView: TView = view === "albums" ? "albums" : "all";
 	const albumCount = galleryManifest.albums.length;
-
-	if (albumCount < 1 && currentView === "albums") {
-		redirect("/?view=all");
-	}
 
 	return (
 		<main>
@@ -52,7 +46,6 @@ export default async function Page({ searchParams }: TProps) {
 
 			<div className="container mx-auto py-16">
 				<ViewSwitcher albumsCount={albumCount} currentView={currentView} />
-
 				<Gallery manifest={galleryManifest} view={currentView} />
 			</div>
 		</main>

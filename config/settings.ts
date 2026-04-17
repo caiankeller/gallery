@@ -25,17 +25,21 @@ const settings: ISettings = {
 
 	/**
 	 * Default license
-	 * Fallback to avoid adding a license manually to every single image
-	 * This will be applied to all synced images unless overridden in the manifest
-	 * CC0 stands for public domain. Use the table below if confused:
-	 	* CC0 (Public Domain)      No rights reserved. Use it for anything without credit.
-		* CC BY (Attribution)      You must credit the creator.
-		* CC BY-SA (ShareAlike)    Credit the creator and share under the same license.
-		* CC BY-NC (Non-Commercial) No business or profit-making purposes.
-		* CC BY-ND (No-Derivatives) No editing, cropping, or transformations.
-	
-	 * Be aware that at the end of the day, i have no clue how image licenses work in reality!
-	 * You can also set this at the album level if you need different licenses for specific groups
+	 * This is to avoid you having to add a personal license to each image.
+	 * This default license will be applyed to all of the sync images
+	 * later in the manifest you can change license to specific images
+	 * 
+	 * CC0 stands for public domain. Use the table under if confused
+	 * 
+	 	CC0 (Public Domain)	No rights reserved. You can use it for anything without credit.
+		CC BY (Attribution)	You must credit the creator.
+		CC BY-SA (ShareAlike)	You must credit the creator and share your work under the same license.
+		CC BY-NC (Non-Commercial)	You cannot use the image for any business or profit-making purpose.
+		CC BY-ND (No-Derivatives)	You cannot edit, crop, or transform the image.
+
+	   be aware that in the end of the day, i have no clue of how image license works in reality!
+
+	   You can also set license in albums level, so you can set different License in different group of images
 	 */
 	defaultLicense: "CC0",
 	showLicense: false,

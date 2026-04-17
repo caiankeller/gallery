@@ -1,88 +1,150 @@
 {
-  "all": [
+  "pinned": [
     {
-      "id": "H14Caikrj9cKMtnZFiXzC",
-      "filename": "H14Caikrj9cKMtnZFiXzC.webp",
+      "id": "aCWBFF-YFmSqD8KfsPlVO",
+      "filename": "aCWBFF-YFmSqD8KfsPlVO.webp",
       "width": 1600,
-      "height": 2843,
+      "height": 3200,
+      "album": {
+        "title": "Bike",
+        "description": "",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:17 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/*IMG_20230312_084108.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "_-Wj4Icjx2vq6eJmV39Kb",
+      "sourcePath": "agnes/*IMG_2026-02-10-13-43-59-202.jpg",
+      "filename": "_-Wj4Icjx2vq6eJmV39Kb.webp",
+      "width": 1600,
+      "height": 2844,
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 23:04:28 GMT-0300 (Brasilia Standard Time)",
+      "license": "CC0",
+      "caption": "",
       "album": {
         "title": "Agnes",
         "description": "Just Agnes",
         "license": "CC0"
       },
+      "isPinned": true
+    },
+    {
+      "id": "XeT0WpbqGEKKZiR3P3Dkz",
+      "filename": "XeT0WpbqGEKKZiR3P3Dkz.webp",
+      "width": 655,
+      "height": 1203,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:42 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG_20250507_132921.jpg",
+      "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20251130_155455_730~2.jpg",
+      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "jkm_0gFgwHqXkatLQ5d0i",
-      "filename": "jkm_0gFgwHqXkatLQ5d0i.webp",
+      "id": "Dp5pgfMQ-qnWtR_QPX49H",
+      "filename": "Dp5pgfMQ-qnWtR_QPX49H.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:23 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20230114_091958.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "2fcu7-iNxhPvyyJ7P4M6j",
+      "filename": "2fcu7-iNxhPvyyJ7P4M6j.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 22 2025 03:29:57 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/*IMG_20251122_063006_800.webp",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "sEf8P-DSs0IsZDKhpY4RM",
+      "filename": "sEf8P-DSs0IsZDKhpY4RM.webp",
       "width": 1600,
       "height": 2844,
       "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
+        "title": "Earth",
+        "description": "Sorta",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:42 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG-20250516-WA0017.jpeg",
+      "date": "Thu Apr 16 2026 22:17:27 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20230523_172421-EFFECTS.jpg",
+      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "L6clZkOnCo9-uD_VrfEzw",
-      "filename": "L6clZkOnCo9-uD_VrfEzw.webp",
-      "width": 1600,
-      "height": 2844,
+      "id": "-EcL0-Wy3Lp23ihsbdtzx",
+      "filename": "-EcL0-Wy3Lp23ihsbdtzx.webp",
+      "width": 720,
+      "height": 1280,
       "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
+        "title": "Earth",
+        "description": "Sorta",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:43 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG-20250509-WA0026.jpeg",
+      "date": "Fri Nov 21 2025 04:57:43 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/*IMG_20251121_075756_484.webp",
+      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "_r9B2klQDSfm_MPBTzPk-",
-      "filename": "_r9B2klQDSfm_MPBTzPk-.webp",
+      "id": "MGfGIHd3Vn19DcXBv4n_H",
+      "filename": "MGfGIHd3Vn19DcXBv4n_H.webp",
       "width": 1600,
-      "height": 2844,
+      "height": 3200,
       "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
+        "title": "Earth",
+        "description": "Sorta",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:43 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG_2026-02-10-13-44-14-970.jpg",
+      "date": "Thu Apr 16 2026 22:17:27 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20230306_145152.jpg",
+      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "2XK3PIbgYPNOWTh6NsoLI",
-      "filename": "2XK3PIbgYPNOWTh6NsoLI.webp",
-      "width": 1600,
-      "height": 2844,
-      "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:44 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG_2026-02-10-13-43-59-202.jpg",
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "DLoKWa4tKRSr7W0qKg8Nb",
-      "filename": "DLoKWa4tKRSr7W0qKg8Nb.webp",
+      "id": "jh8F1gIj3EfDoPgboUQFw",
+      "filename": "jh8F1gIj3EfDoPgboUQFw.webp",
       "width": 720,
       "height": 1280,
       "album": {
@@ -100,61 +162,237 @@
         "LightSource": 0,
         "FNumber": 1.8
       },
-      "sourcePath": "earth/IMG_20251120_111557_781.webp",
+      "sourcePath": "earth/*IMG_20251120_111557_781.webp",
+      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "24DfaFKKFb01YE4Inhctq",
-      "filename": "24DfaFKKFb01YE4Inhctq.webp",
+      "id": "zDjfinvOhtBnTD1fdYoiq",
+      "filename": "zDjfinvOhtBnTD1fdYoiq.webp",
       "width": 1600,
-      "height": 2844,
+      "height": 3563,
       "album": {
-        "title": "Earth",
-        "description": "Sorta",
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:45 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG_20230602_002838.jpg",
+      "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/*IMG_20251216_214727.jpg",
+      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "DLPWu4ddrPLPMM6obUQmj",
-      "filename": "DLPWu4ddrPLPMM6obUQmj.webp",
+      "id": "fnnNCSiEbPSon71x6Md5x",
+      "filename": "fnnNCSiEbPSon71x6Md5x.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:30 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/*IMG_20251222_174745.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    }
+  ],
+  "all": [
+    {
+      "id": "SZhf_x3dFO0JeRie_ArL5",
+      "filename": "SZhf_x3dFO0JeRie_ArL5.webp",
       "width": 1600,
       "height": 3200,
       "album": {
-        "title": "Earth",
-        "description": "Sorta",
+        "title": "Bike",
+        "description": "",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:48 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG_20230306_145152.jpg",
+      "date": "Thu Apr 16 2026 20:50:39 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/IMG_20230306_142635.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "Mf6v3EKZLnollLNLduBMs",
-      "filename": "Mf6v3EKZLnollLNLduBMs.webp",
+      "id": "1n_ck7hN3xLPCQVLZWI8X",
+      "filename": "1n_ck7hN3xLPCQVLZWI8X.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Bike",
+        "description": "",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:40 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/IMG_20221228_214324.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "TCtdKo75Wpagevx72bZku",
+      "filename": "TCtdKo75Wpagevx72bZku.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Bike",
+        "description": "",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:41 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/IMG_20230114_094019.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "bj2PFUQWSVXCwKJr-tCta",
+      "filename": "bj2PFUQWSVXCwKJr-tCta.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Bike",
+        "description": "",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:42 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/IMG_20230821_173244.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Hy6KeE8nbASdyiI03mzeV",
+      "filename": "Hy6KeE8nbASdyiI03mzeV.webp",
+      "width": 1600,
+      "height": 3201,
+      "album": {
+        "title": "Bike",
+        "description": "",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:43 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/IMG_20221227_102231.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "I7jZtTX_YjFcZcs9U6eOR",
+      "filename": "I7jZtTX_YjFcZcs9U6eOR.webp",
       "width": 1600,
       "height": 2844,
       "album": {
-        "title": "Earth",
-        "description": "Sorta",
+        "title": "Bike",
+        "description": "",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:50 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG_20230430_133520.jpg",
+      "date": "Thu Apr 16 2026 20:50:44 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/IMG_20230520_111157.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "OarWfsZ5H-FQdXLeBq52I",
-      "filename": "OarWfsZ5H-FQdXLeBq52I.webp",
+      "id": "aCWBFF-YFmSqD8KfsPlVO",
+      "filename": "aCWBFF-YFmSqD8KfsPlVO.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Bike",
+        "description": "",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:17 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "bike/*IMG_20230312_084108.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "KGThALHQBLzhiZysk5xc0",
+      "filename": "KGThALHQBLzhiZysk5xc0.webp",
+      "width": 1600,
+      "height": 2843,
+      "album": {
+        "title": "Agnes",
+        "description": "Just Agnes",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:44 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "agnes/IMG_20250507_132921.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "_-Wj4Icjx2vq6eJmV39Kb",
+      "sourcePath": "agnes/*IMG_2026-02-10-13-43-59-202.jpg",
+      "filename": "_-Wj4Icjx2vq6eJmV39Kb.webp",
+      "width": 1600,
+      "height": 2844,
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 23:04:28 GMT-0300 (Brasilia Standard Time)",
+      "license": "CC0",
+      "caption": "",
+      "album": {
+        "title": "Agnes",
+        "description": "Just Agnes",
+        "license": "CC0"
+      },
+      "isPinned": true
+    },
+    {
+      "id": "6M_XcGWtzPUujbjvSfDYr",
+      "filename": "6M_XcGWtzPUujbjvSfDYr.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Agnes",
+        "description": "Just Agnes",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "agnes/IMG-20250516-WA0017.jpeg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "V-jDgSEEDmlQ10cW-2ttj",
+      "filename": "V-jDgSEEDmlQ10cW-2ttj.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Agnes",
+        "description": "Just Agnes",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "agnes/IMG-20250509-WA0026.jpeg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "rEWgBe73FXCR_Ptf3DdhX",
+      "filename": "rEWgBe73FXCR_Ptf3DdhX.webp",
       "width": 720,
       "height": 1280,
       "album": {
@@ -163,17 +401,796 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Fri Nov 21 2025 04:57:43 GMT-0300 (Brasilia Standard Time)",
+      "date": "Sat Dec 20 2025 05:32:16 GMT-0300 (Brasilia Standard Time)",
       "cameraSettings": {
-        "LightSource": 0
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.0017,
+        "ISOSpeedRatings": 50,
+        "LightSource": 0,
+        "FNumber": 1.8
       },
-      "sourcePath": "earth/IMG_20251121_075756_484.webp",
+      "sourcePath": "earth/IMG_20251220_085003_596.webp",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "Sp5Ttsvhop1C3Nszi54Cn",
-      "filename": "Sp5Ttsvhop1C3Nszi54Cn.webp",
+      "id": "MhdXygkvxjcFJKDmeygQw",
+      "filename": "MhdXygkvxjcFJKDmeygQw.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:46 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20251220_103524_273~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "xxWhXqB16hEvYhbMrBaq8",
+      "filename": "xxWhXqB16hEvYhbMrBaq8.webp",
+      "width": 1600,
+      "height": 1200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:47 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/DSC04326~2.JPG",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "6qy7XvIN5IoxKJNEbOTrT",
+      "filename": "6qy7XvIN5IoxKJNEbOTrT.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Wed Nov 26 2025 10:00:06 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 144,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251126_130010_318.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Hy3Al-bxA5iq1DswwLZjv",
+      "filename": "Hy3Al-bxA5iq1DswwLZjv.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250927_175003.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "CzsgJ1eDHP8blodq_Iw4k",
+      "filename": "CzsgJ1eDHP8blodq_Iw4k.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sun Nov 30 2025 11:37:09 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.0018,
+        "ISOSpeedRatings": 51,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251130_143714_296.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "XeT0WpbqGEKKZiR3P3Dkz",
+      "filename": "XeT0WpbqGEKKZiR3P3Dkz.webp",
+      "width": 655,
+      "height": 1203,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20251130_155455_730~2.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "CVWZviDej4yW2m2vJdIFw",
+      "filename": "CVWZviDej4yW2m2vJdIFw.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:47 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20240731_135608.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "m7KtyNTogeoCmsUHe99sD",
+      "filename": "m7KtyNTogeoCmsUHe99sD.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:48 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20230602_002838.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "kEiKmapSafXD34WpXRpE7",
+      "filename": "kEiKmapSafXD34WpXRpE7.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:22 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250420_131831.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "cjeVFaAqzNoImKEvGg4_8",
+      "filename": "cjeVFaAqzNoImKEvGg4_8.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:23 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20241114_214424.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Dp5pgfMQ-qnWtR_QPX49H",
+      "filename": "Dp5pgfMQ-qnWtR_QPX49H.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:23 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20230114_091958.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "IMTZnzEmBmJb3NFPSy7B9",
+      "filename": "IMTZnzEmBmJb3NFPSy7B9.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Nov 20 2025 08:14:05 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 190,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251120_111408_693.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "5JJ4uBKQvtFTIMCMt-Pow",
+      "filename": "5JJ4uBKQvtFTIMCMt-Pow.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:48 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250413_071435_HDR~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "DSgQ7h5HOh7N99lFcihZ-",
+      "filename": "DSgQ7h5HOh7N99lFcihZ-.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sun Nov 30 2025 14:32:08 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.0027,
+        "ISOSpeedRatings": 50,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251130_173211_135.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "YWPDgxaHqXONqq6Q2j3iP",
+      "filename": "YWPDgxaHqXONqq6Q2j3iP.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:49 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20230114_091409.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "MKHQxwSjPG2XuQz7S_lA4",
+      "filename": "MKHQxwSjPG2XuQz7S_lA4.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:36:13 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250814_075340_HDR.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "uAkQJURsy3UWqA6nD0IvA",
+      "filename": "uAkQJURsy3UWqA6nD0IvA.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Dec 20 2025 04:24:14 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 71,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251220_072420_741.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "hKHzKsOCj67RqVt_4-kAA",
+      "filename": "hKHzKsOCj67RqVt_4-kAA.webp",
+      "width": 1600,
+      "height": 2843,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:24 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250624_071722.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "tJ8n1k7WjwY0VKy9O5MAh",
+      "filename": "tJ8n1k7WjwY0VKy9O5MAh.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:25 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG-20250619-WA0020.jpeg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "ZFV5JrScsyxLwgdR9pUyA",
+      "filename": "ZFV5JrScsyxLwgdR9pUyA.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:50 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20240826_134923~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Jy-huovmJ0x-owxVvNxiz",
+      "filename": "Jy-huovmJ0x-owxVvNxiz.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Wed Dec 03 2025 06:17:13 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251203_091716_295.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "p3Cc_t5bVvf_8QkORLun_",
+      "filename": "p3Cc_t5bVvf_8QkORLun_.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Mon Dec 08 2025 03:08:59 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251208_060903_249.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "7SkRY0-bg9kHtx_lE0Af_",
+      "filename": "7SkRY0-bg9kHtx_lE0Af_.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Mon Dec 08 2025 03:29:18 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 103,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251208_062922_126.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "2fcu7-iNxhPvyyJ7P4M6j",
+      "filename": "2fcu7-iNxhPvyyJ7P4M6j.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 22 2025 03:29:57 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/*IMG_20251122_063006_800.webp",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "6AxY26SyucuJQnq3ReogK",
+      "filename": "6AxY26SyucuJQnq3ReogK.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:25 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20241116_141427.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "t3_a1rYJQM9Q_yFn5u9or",
+      "filename": "t3_a1rYJQM9Q_yFn5u9or.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:50 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20251220_182954_714~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "HrBkAnmrKxjH4tsIKLLLG",
+      "filename": "HrBkAnmrKxjH4tsIKLLLG.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:52 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20251220_081215_HDR.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "owOAvtlaCjsne3xwbcMVm",
+      "filename": "owOAvtlaCjsne3xwbcMVm.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Oct 30 2025 11:21:43 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 195,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251030_142147_052.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Jv_PGFaL_iB8oOhsOmPV8",
+      "filename": "Jv_PGFaL_iB8oOhsOmPV8.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250820_124519_HDR.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "lajVCZIcN_vbabQuftooT",
+      "filename": "lajVCZIcN_vbabQuftooT.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 22 2025 03:16:28 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251122_061631_104.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "1Re94maYyCAeGEpK1PuFz",
+      "filename": "1Re94maYyCAeGEpK1PuFz.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:52 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20230430_133520.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "qTyW2EwknwL6OdPzNNsKT",
+      "filename": "qTyW2EwknwL6OdPzNNsKT.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Mon Nov 03 2025 10:06:58 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251103_130727_571.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "-dMGoN-7FXvSN9tmLM70W",
+      "filename": "-dMGoN-7FXvSN9tmLM70W.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Fri Nov 21 2025 04:53:48 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251121_075351_960.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "zgKFI6zjunuQEeU32kmbc",
+      "filename": "zgKFI6zjunuQEeU32kmbc.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Oct 30 2025 11:27:08 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 158,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251030_142728_911.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "IQriK6brOfA5roE2JwyIb",
+      "filename": "IQriK6brOfA5roE2JwyIb.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sun Nov 30 2025 10:00:49 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.0023,
+        "ISOSpeedRatings": 51,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251130_130054_063.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "YtHn3QG95MwHFv6vcWe7f",
+      "filename": "YtHn3QG95MwHFv6vcWe7f.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG-20250629-WA0038.jpeg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Gd13q9VUlbF0pZg3fnO_8",
+      "filename": "Gd13q9VUlbF0pZg3fnO_8.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 22 2025 03:30:54 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251122_063057_836.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "sEf8P-DSs0IsZDKhpY4RM",
+      "filename": "sEf8P-DSs0IsZDKhpY4RM.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:27 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20230523_172421-EFFECTS.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "-3otVbIUH2cGenElLmv9K",
+      "filename": "-3otVbIUH2cGenElLmv9K.webp",
+      "width": 1600,
+      "height": 2133,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:53 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_2026-02-06-10-36-24-208.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "VbXVcxQ8Zc0ZMb0msIN4E",
+      "filename": "VbXVcxQ8Zc0ZMb0msIN4E.webp",
+      "width": 1688,
+      "height": 2250,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:53 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20260302_184557_046.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "cSi0-JIPU88UW7X8GfkOq",
+      "filename": "cSi0-JIPU88UW7X8GfkOq.webp",
       "width": 720,
       "height": 1280,
       "album": {
@@ -192,28 +1209,13 @@
         "FNumber": 1.8
       },
       "sourcePath": "earth/IMG_20251122_060705_151.webp",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "jUtoA97d-4-Fh8v3SiL7I",
-      "filename": "jUtoA97d-4-Fh8v3SiL7I.webp",
-      "width": 1600,
-      "height": 3200,
-      "album": {
-        "title": "Earth",
-        "description": "Sorta",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:52 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG_20230114_091958.jpg",
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "oo8qPrdZn4UdXTyEZAzIV",
-      "filename": "oo8qPrdZn4UdXTyEZAzIV.webp",
+      "id": "z6nreXXrIi4XF-Gue2Toh",
+      "filename": "z6nreXXrIi4XF-Gue2Toh.webp",
       "width": 720,
       "height": 1280,
       "album": {
@@ -222,30 +1224,317 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:58:53 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG_20240729_235636_424.webp",
+      "date": "Fri Nov 21 2025 04:52:44 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.01,
+        "ISOSpeedRatings": 58,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251121_075247_271.webp",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "UfirQyc0WjkJqccpVwxbd",
-      "filename": "UfirQyc0WjkJqccpVwxbd.webp",
-      "width": 655,
-      "height": 1203,
+      "id": "qBMUBIyue-5KMBhYp1-3y",
+      "filename": "qBMUBIyue-5KMBhYp1-3y.webp",
+      "width": 720,
+      "height": 1280,
       "album": {
-        "title": "Pinned",
-        "description": "The best things that have happened to me",
+        "title": "Earth",
+        "description": "Sorta",
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:00 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "pinned/IMG_20251130_155455_730~2.jpg",
+      "date": "Sat Nov 22 2025 03:22:02 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251122_062208_296.webp",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "rJKDH7DIKmYyDFfB2wJ7Y",
-      "filename": "rJKDH7DIKmYyDFfB2wJ7Y.webp",
+      "id": "xh4RB35mwdnggN7gqkPgb",
+      "filename": "xh4RB35mwdnggN7gqkPgb.webp",
+      "width": 720,
+      "height": 1440,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:53 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/Screenshot_2024-07-15-22-07-01-652_com.google.android.apps.photos~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "-EcL0-Wy3Lp23ihsbdtzx",
+      "filename": "-EcL0-Wy3Lp23ihsbdtzx.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Fri Nov 21 2025 04:57:43 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/*IMG_20251121_075756_484.webp",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "a1LNHAUEi6Mw0fJABMtII",
+      "filename": "a1LNHAUEi6Mw0fJABMtII.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:54 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20251220_183204_236~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "QUVsTk-NuylYPuWmf74jx",
+      "filename": "QUVsTk-NuylYPuWmf74jx.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Dec 20 2025 06:23:44 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.0025,
+        "ISOSpeedRatings": 50,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251220_092355_365.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "MGfGIHd3Vn19DcXBv4n_H",
+      "filename": "MGfGIHd3Vn19DcXBv4n_H.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:27 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/*IMG_20230306_145152.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "OcOOZALnQMkCqMRJ0EK5A",
+      "filename": "OcOOZALnQMkCqMRJ0EK5A.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 22 2025 03:10:57 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251122_061102_007.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "UVMAu4eEt5LJ2VBaJVP4t",
+      "filename": "UVMAu4eEt5LJ2VBaJVP4t.webp",
+      "width": 1600,
+      "height": 2843,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:56 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250515_180000.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "qEwsnoxg6Hljy2zisBqGJ",
+      "filename": "qEwsnoxg6Hljy2zisBqGJ.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Fri Nov 21 2025 02:54:26 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251121_055431_264.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "HUjp4MHZFy80LWMh95iZZ",
+      "filename": "HUjp4MHZFy80LWMh95iZZ.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sun Nov 30 2025 11:49:23 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.02,
+        "ISOSpeedRatings": 474,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/IMG_20251130_145332_522.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "5KMTW5j5nfdkUpKFOrpVv",
+      "filename": "5KMTW5j5nfdkUpKFOrpVv.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:56 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20240727_102619_435.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "yhSTexIjdYdgfYJHfkIqH",
+      "filename": "yhSTexIjdYdgfYJHfkIqH.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 22 2025 03:13:50 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "earth/IMG_20251122_061419_873.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "XliNJF1uDGymCJBBKUvBZ",
+      "filename": "XliNJF1uDGymCJBBKUvBZ.webp",
+      "width": 1600,
+      "height": 3200,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:28 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20250103_191123~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "jh8F1gIj3EfDoPgboUQFw",
+      "filename": "jh8F1gIj3EfDoPgboUQFw.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Nov 20 2025 08:15:55 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "WhiteBalance": 1,
+        "FocalLength": 4.27,
+        "ExposureTime": 0.0095,
+        "ISOSpeedRatings": 51,
+        "LightSource": 0,
+        "FNumber": 1.8
+      },
+      "sourcePath": "earth/*IMG_20251120_111557_781.webp",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "sXZXPqFonCl8bqE4_VcOk",
+      "filename": "sXZXPqFonCl8bqE4_VcOk.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Earth",
+        "description": "Sorta",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:50:56 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "earth/IMG_20251218_182720_021~2.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "1riHVVsy2-sBUwgn6MjHf",
+      "filename": "1riHVVsy2-sBUwgn6MjHf.webp",
       "width": 1600,
       "height": 3563,
       "album": {
@@ -254,14 +1543,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:03 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:04 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "life/IMG_20250417_174405~2.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "EJZkLkCKaAQXBS7hn_FrB",
-      "filename": "EJZkLkCKaAQXBS7hn_FrB.webp",
+      "id": "Y2TCWRoZnasg88tyj6cVd",
+      "filename": "Y2TCWRoZnasg88tyj6cVd.webp",
       "width": 1600,
       "height": 3200,
       "album": {
@@ -270,14 +1560,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:03 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:05 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "life/IMG_20241128_173352.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "tWxk0LM5BITJ4_4Du0kDI",
-      "filename": "tWxk0LM5BITJ4_4Du0kDI.webp",
+      "id": "MNodcKybzhUleTjTwZcTo",
+      "filename": "MNodcKybzhUleTjTwZcTo.webp",
       "width": 1600,
       "height": 2125,
       "album": {
@@ -286,14 +1577,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:04 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:06 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "life/IMG_20250328_112223.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "_xj6DnggpHL33t9v2-o2Q",
-      "filename": "_xj6DnggpHL33t9v2-o2Q.webp",
+      "id": "3oIJ17JNjUVWP7AVxVgQr",
+      "filename": "3oIJ17JNjUVWP7AVxVgQr.webp",
       "width": 1600,
       "height": 2844,
       "album": {
@@ -302,14 +1594,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:05 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:06 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "life/IMG-20250510-WA0029.jpeg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "BGsr07tyxH9N7IeW0lYn0",
-      "filename": "BGsr07tyxH9N7IeW0lYn0.webp",
+      "id": "hXtzPodhxnkM-tl8XnVFC",
+      "filename": "hXtzPodhxnkM-tl8XnVFC.webp",
       "width": 1600,
       "height": 3563,
       "album": {
@@ -318,30 +1611,222 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:05 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:07 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "life/IMG_20250430_154903.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "pvGAUZiN0x18uIC3uOjoC",
-      "sourcePath": "life/IMG_20251130_155455_730~2.jpg",
-      "filename": "pvGAUZiN0x18uIC3uOjoC.webp",
-      "width": 655,
-      "height": 1203,
-      "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 23:22:55 GMT-0300 (Brasilia Standard Time)",
-      "license": "CC0",
-      "caption": "",
+      "id": "fQrtJ10Jl2JQBN9a5JvhL",
+      "filename": "fQrtJ10Jl2JQBN9a5JvhL.webp",
+      "width": 1600,
+      "height": 2844,
       "album": {
         "title": "Life",
         "description": "Gave up on cigarettes and drinking",
         "license": "CC0"
-      }
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:08 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG-20260131-WA0004.jpeg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
     },
     {
-      "id": "1CLgIDz3eQPnQBvGbpLec",
-      "filename": "1CLgIDz3eQPnQBvGbpLec.webp",
+      "id": "f-4nNgJ8-masbi241kxQ1",
+      "filename": "f-4nNgJ8-masbi241kxQ1.webp",
+      "width": 1600,
+      "height": 2125,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:08 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG_20260112_134837.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "ns-BikoMtm9JZa4HsRExr",
+      "filename": "ns-BikoMtm9JZa4HsRExr.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:09 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG_20250815_074425.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "zDjfinvOhtBnTD1fdYoiq",
+      "filename": "zDjfinvOhtBnTD1fdYoiq.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/*IMG_20251216_214727.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "_DFWIeNCjUpM9Wd9unPDj",
+      "filename": "_DFWIeNCjUpM9Wd9unPDj.webp",
+      "width": 720,
+      "height": 1440,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/Screenshot_2025-02-13-20-34-44-651_com.google.android.apps.photos.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "4-WOn_qdYpQc6Y-SCMXnF",
+      "filename": "4-WOn_qdYpQc6Y-SCMXnF.webp",
+      "width": 1600,
+      "height": 2844,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:11 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG-20251117-WA0017.jpeg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Mn-x_meHGBfNoMzkA_ojN",
+      "filename": "Mn-x_meHGBfNoMzkA_ojN.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Sat Nov 15 2025 21:27:40 GMT-0300 (Brasilia Standard Time)",
+      "cameraSettings": {
+        "LightSource": 0
+      },
+      "sourcePath": "life/IMG_20251116_002745_038.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "EmCQJYtFObAGtl3EONLbT",
+      "filename": "EmCQJYtFObAGtl3EONLbT.webp",
+      "width": 1600,
+      "height": 1599,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:11 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG_2026-02-24-14-39-14-415~3.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "VJnOMwUAU4PaPVuf7T9Xo",
+      "filename": "VJnOMwUAU4PaPVuf7T9Xo.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:12 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG_20251023_172036.jpg",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "Hqa0Xz1SrC0sClFoVHE7z",
+      "filename": "Hqa0Xz1SrC0sClFoVHE7z.webp",
+      "width": 1024,
+      "height": 1536,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG.png",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "nGTCI8VMhi-aKce2FDxLt",
+      "filename": "nGTCI8VMhi-aKce2FDxLt.webp",
+      "width": 720,
+      "height": 1280,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 20:51:12 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/IMG_20250921_135144_921.webp",
+      "isPinned": false,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "fnnNCSiEbPSon71x6Md5x",
+      "filename": "fnnNCSiEbPSon71x6Md5x.webp",
+      "width": 1600,
+      "height": 3563,
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "camera": "motorola moto g04s",
+      "date": "Thu Apr 16 2026 22:17:30 GMT-0300 (Brasilia Standard Time)",
+      "sourcePath": "life/*IMG_20251222_174745.jpg",
+      "isPinned": true,
+      "caption": "",
+      "license": "CC0"
+    },
+    {
+      "id": "mAzsz-wPC9wjL1N8sUd1U",
+      "filename": "mAzsz-wPC9wjL1N8sUd1U.webp",
       "width": 1600,
       "height": 3200,
       "album": {
@@ -350,14 +1835,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:11 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:13 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "eletric-power-grid-expert/IMG_20230713_162152.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "U2lRHifUyFMD67SUHXDKy",
-      "filename": "U2lRHifUyFMD67SUHXDKy.webp",
+      "id": "WMOHY8C9DahCdVE-FVxNd",
+      "filename": "WMOHY8C9DahCdVE-FVxNd.webp",
       "width": 720,
       "height": 1440,
       "album": {
@@ -366,30 +1852,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:11 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:13 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "eletric-power-grid-expert/Screenshot_2024-09-10-15-55-49-828_lockscreen.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "PxTwDpKXqbNL8Y8o2w4C0",
-      "filename": "PxTwDpKXqbNL8Y8o2w4C0.webp",
-      "width": 1600,
-      "height": 3200,
-      "album": {
-        "title": "Eletric power grid expert",
-        "description": "",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:12 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "eletric-power-grid-expert/IMG_20230713_162926.jpg",
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "i6Mo6zysRkX23QpG9BFSo",
-      "filename": "i6Mo6zysRkX23QpG9BFSo.webp",
+      "id": "a5ryryqrmAD3FP4afniK1",
+      "filename": "a5ryryqrmAD3FP4afniK1.webp",
       "width": 720,
       "height": 1440,
       "album": {
@@ -398,14 +1869,15 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 22:59:12 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:14 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "eletric-power-grid-expert/Screenshot_2023-07-13-18-37-29-822_com.google.android.apps.photosgo~2.jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     },
     {
-      "id": "0Hsk5buGQ8D0EI68PaJ4V",
-      "filename": "0Hsk5buGQ8D0EI68PaJ4V.webp",
+      "id": "flJxBKT3AvlNF5yCbqsiR",
+      "filename": "flJxBKT3AvlNF5yCbqsiR.webp",
       "width": 720,
       "height": 1440,
       "album": {
@@ -414,20 +1886,146 @@
         "license": "CC0"
       },
       "camera": "motorola moto g04s",
-      "date": "Sun Apr 12 2026 23:04:01 GMT-0300 (Brasilia Standard Time)",
+      "date": "Thu Apr 16 2026 20:51:14 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "eletric-power-grid-expert/Screenshot_2023-07-07-10-31-30-920_com.google.android.apps.photosgo~3 (Copy).jpg",
+      "isPinned": false,
       "caption": "",
       "license": "CC0"
     }
   ],
   "albums": [
     {
+      "album": "Bike",
+      "description": "",
+      "images": [
+        {
+          "id": "SZhf_x3dFO0JeRie_ArL5",
+          "filename": "SZhf_x3dFO0JeRie_ArL5.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:39 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/IMG_20230306_142635.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "1n_ck7hN3xLPCQVLZWI8X",
+          "filename": "1n_ck7hN3xLPCQVLZWI8X.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:40 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/IMG_20221228_214324.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "TCtdKo75Wpagevx72bZku",
+          "filename": "TCtdKo75Wpagevx72bZku.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:41 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/IMG_20230114_094019.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "bj2PFUQWSVXCwKJr-tCta",
+          "filename": "bj2PFUQWSVXCwKJr-tCta.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:42 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/IMG_20230821_173244.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Hy6KeE8nbASdyiI03mzeV",
+          "filename": "Hy6KeE8nbASdyiI03mzeV.webp",
+          "width": 1600,
+          "height": 3201,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:43 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/IMG_20221227_102231.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "I7jZtTX_YjFcZcs9U6eOR",
+          "filename": "I7jZtTX_YjFcZcs9U6eOR.webp",
+          "width": 1600,
+          "height": 2844,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:44 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/IMG_20230520_111157.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "aCWBFF-YFmSqD8KfsPlVO",
+          "filename": "aCWBFF-YFmSqD8KfsPlVO.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Bike",
+            "description": "",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:17 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "bike/*IMG_20230312_084108.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        }
+      ]
+    },
+    {
       "album": "Agnes",
       "description": "Just Agnes",
       "images": [
         {
-          "id": "H14Caikrj9cKMtnZFiXzC",
-          "filename": "H14Caikrj9cKMtnZFiXzC.webp",
+          "id": "KGThALHQBLzhiZysk5xc0",
+          "filename": "KGThALHQBLzhiZysk5xc0.webp",
           "width": 1600,
           "height": 2843,
           "album": {
@@ -436,14 +2034,32 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:42 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:50:44 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "agnes/IMG_20250507_132921.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "jkm_0gFgwHqXkatLQ5d0i",
-          "filename": "jkm_0gFgwHqXkatLQ5d0i.webp",
+          "id": "_-Wj4Icjx2vq6eJmV39Kb",
+          "sourcePath": "agnes/*IMG_2026-02-10-13-43-59-202.jpg",
+          "filename": "_-Wj4Icjx2vq6eJmV39Kb.webp",
+          "width": 1600,
+          "height": 2844,
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 23:04:28 GMT-0300 (Brasilia Standard Time)",
+          "license": "CC0",
+          "caption": "",
+          "album": {
+            "title": "Agnes",
+            "description": "Just Agnes",
+            "license": "CC0"
+          },
+          "isPinned": true
+        },
+        {
+          "id": "6M_XcGWtzPUujbjvSfDYr",
+          "filename": "6M_XcGWtzPUujbjvSfDYr.webp",
           "width": 1600,
           "height": 2844,
           "album": {
@@ -452,14 +2068,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:42 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "agnes/IMG-20250516-WA0017.jpeg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "L6clZkOnCo9-uD_VrfEzw",
-          "filename": "L6clZkOnCo9-uD_VrfEzw.webp",
+          "id": "V-jDgSEEDmlQ10cW-2ttj",
+          "filename": "V-jDgSEEDmlQ10cW-2ttj.webp",
           "width": 1600,
           "height": 2844,
           "album": {
@@ -468,40 +2085,9 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:43 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "agnes/IMG-20250509-WA0026.jpeg",
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "_r9B2klQDSfm_MPBTzPk-",
-          "filename": "_r9B2klQDSfm_MPBTzPk-.webp",
-          "width": 1600,
-          "height": 2844,
-          "album": {
-            "title": "Agnes",
-            "description": "Just Agnes",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:43 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "agnes/IMG_2026-02-10-13-44-14-970.jpg",
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "2XK3PIbgYPNOWTh6NsoLI",
-          "filename": "2XK3PIbgYPNOWTh6NsoLI.webp",
-          "width": 1600,
-          "height": 2844,
-          "album": {
-            "title": "Agnes",
-            "description": "Just Agnes",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:44 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "agnes/IMG_2026-02-10-13-43-59-202.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         }
@@ -512,8 +2098,8 @@
       "description": "Sorta",
       "images": [
         {
-          "id": "DLoKWa4tKRSr7W0qKg8Nb",
-          "filename": "DLoKWa4tKRSr7W0qKg8Nb.webp",
+          "id": "rEWgBe73FXCR_Ptf3DdhX",
+          "filename": "rEWgBe73FXCR_Ptf3DdhX.webp",
           "width": 720,
           "height": 1280,
           "album": {
@@ -522,38 +2108,141 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Thu Nov 20 2025 08:15:55 GMT-0300 (Brasilia Standard Time)",
+          "date": "Sat Dec 20 2025 05:32:16 GMT-0300 (Brasilia Standard Time)",
           "cameraSettings": {
             "WhiteBalance": 1,
             "FocalLength": 4.27,
-            "ExposureTime": 0.0095,
-            "ISOSpeedRatings": 51,
+            "ExposureTime": 0.0017,
+            "ISOSpeedRatings": 50,
             "LightSource": 0,
             "FNumber": 1.8
           },
-          "sourcePath": "earth/IMG_20251120_111557_781.webp",
+          "sourcePath": "earth/IMG_20251220_085003_596.webp",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "24DfaFKKFb01YE4Inhctq",
-          "filename": "24DfaFKKFb01YE4Inhctq.webp",
-          "width": 1600,
-          "height": 2844,
+          "id": "MhdXygkvxjcFJKDmeygQw",
+          "filename": "MhdXygkvxjcFJKDmeygQw.webp",
+          "width": 720,
+          "height": 1280,
           "album": {
             "title": "Earth",
             "description": "Sorta",
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:45 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG_20230602_002838.jpg",
+          "date": "Thu Apr 16 2026 20:50:46 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20251220_103524_273~2.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "DLPWu4ddrPLPMM6obUQmj",
-          "filename": "DLPWu4ddrPLPMM6obUQmj.webp",
+          "id": "xxWhXqB16hEvYhbMrBaq8",
+          "filename": "xxWhXqB16hEvYhbMrBaq8.webp",
+          "width": 1600,
+          "height": 1200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:47 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/DSC04326~2.JPG",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "6qy7XvIN5IoxKJNEbOTrT",
+          "filename": "6qy7XvIN5IoxKJNEbOTrT.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Wed Nov 26 2025 10:00:06 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 144,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251126_130010_318.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Hy3Al-bxA5iq1DswwLZjv",
+          "filename": "Hy3Al-bxA5iq1DswwLZjv.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250927_175003.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "CzsgJ1eDHP8blodq_Iw4k",
+          "filename": "CzsgJ1eDHP8blodq_Iw4k.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sun Nov 30 2025 11:37:09 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.0018,
+            "ISOSpeedRatings": 51,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251130_143714_296.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "XeT0WpbqGEKKZiR3P3Dkz",
+          "filename": "XeT0WpbqGEKKZiR3P3Dkz.webp",
+          "width": 655,
+          "height": 1203,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/*IMG_20251130_155455_730~2.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "CVWZviDej4yW2m2vJdIFw",
+          "filename": "CVWZviDej4yW2m2vJdIFw.webp",
           "width": 1600,
           "height": 3200,
           "album": {
@@ -562,14 +2251,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:48 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG_20230306_145152.jpg",
+          "date": "Thu Apr 16 2026 20:50:47 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20240731_135608.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "Mf6v3EKZLnollLNLduBMs",
-          "filename": "Mf6v3EKZLnollLNLduBMs.webp",
+          "id": "m7KtyNTogeoCmsUHe99sD",
+          "filename": "m7KtyNTogeoCmsUHe99sD.webp",
           "width": 1600,
           "height": 2844,
           "album": {
@@ -578,14 +2268,66 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:50 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG_20230430_133520.jpg",
+          "date": "Thu Apr 16 2026 20:50:48 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20230602_002838.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "OarWfsZ5H-FQdXLeBq52I",
-          "filename": "OarWfsZ5H-FQdXLeBq52I.webp",
+          "id": "kEiKmapSafXD34WpXRpE7",
+          "filename": "kEiKmapSafXD34WpXRpE7.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:22 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250420_131831.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "cjeVFaAqzNoImKEvGg4_8",
+          "filename": "cjeVFaAqzNoImKEvGg4_8.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:23 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20241114_214424.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Dp5pgfMQ-qnWtR_QPX49H",
+          "filename": "Dp5pgfMQ-qnWtR_QPX49H.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:23 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/*IMG_20230114_091958.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "IMTZnzEmBmJb3NFPSy7B9",
+          "filename": "IMTZnzEmBmJb3NFPSy7B9.webp",
           "width": 720,
           "height": 1280,
           "album": {
@@ -594,17 +2336,568 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Fri Nov 21 2025 04:57:43 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Nov 20 2025 08:14:05 GMT-0300 (Brasilia Standard Time)",
           "cameraSettings": {
-            "LightSource": 0
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 190,
+            "LightSource": 0,
+            "FNumber": 1.8
           },
-          "sourcePath": "earth/IMG_20251121_075756_484.webp",
+          "sourcePath": "earth/IMG_20251120_111408_693.webp",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "Sp5Ttsvhop1C3Nszi54Cn",
-          "filename": "Sp5Ttsvhop1C3Nszi54Cn.webp",
+          "id": "5JJ4uBKQvtFTIMCMt-Pow",
+          "filename": "5JJ4uBKQvtFTIMCMt-Pow.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:48 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250413_071435_HDR~2.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "DSgQ7h5HOh7N99lFcihZ-",
+          "filename": "DSgQ7h5HOh7N99lFcihZ-.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sun Nov 30 2025 14:32:08 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.0027,
+            "ISOSpeedRatings": 50,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251130_173211_135.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "YWPDgxaHqXONqq6Q2j3iP",
+          "filename": "YWPDgxaHqXONqq6Q2j3iP.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:49 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20230114_091409.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "MKHQxwSjPG2XuQz7S_lA4",
+          "filename": "MKHQxwSjPG2XuQz7S_lA4.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:36:13 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250814_075340_HDR.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "uAkQJURsy3UWqA6nD0IvA",
+          "filename": "uAkQJURsy3UWqA6nD0IvA.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Dec 20 2025 04:24:14 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 71,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251220_072420_741.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "hKHzKsOCj67RqVt_4-kAA",
+          "filename": "hKHzKsOCj67RqVt_4-kAA.webp",
+          "width": 1600,
+          "height": 2843,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:24 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250624_071722.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "tJ8n1k7WjwY0VKy9O5MAh",
+          "filename": "tJ8n1k7WjwY0VKy9O5MAh.webp",
+          "width": 1600,
+          "height": 2844,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:25 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG-20250619-WA0020.jpeg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "ZFV5JrScsyxLwgdR9pUyA",
+          "filename": "ZFV5JrScsyxLwgdR9pUyA.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:50 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20240826_134923~2.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Jy-huovmJ0x-owxVvNxiz",
+          "filename": "Jy-huovmJ0x-owxVvNxiz.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Wed Dec 03 2025 06:17:13 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251203_091716_295.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "p3Cc_t5bVvf_8QkORLun_",
+          "filename": "p3Cc_t5bVvf_8QkORLun_.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Mon Dec 08 2025 03:08:59 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251208_060903_249.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "7SkRY0-bg9kHtx_lE0Af_",
+          "filename": "7SkRY0-bg9kHtx_lE0Af_.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Mon Dec 08 2025 03:29:18 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 103,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251208_062922_126.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "2fcu7-iNxhPvyyJ7P4M6j",
+          "filename": "2fcu7-iNxhPvyyJ7P4M6j.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Nov 22 2025 03:29:57 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/*IMG_20251122_063006_800.webp",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "6AxY26SyucuJQnq3ReogK",
+          "filename": "6AxY26SyucuJQnq3ReogK.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:25 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20241116_141427.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "t3_a1rYJQM9Q_yFn5u9or",
+          "filename": "t3_a1rYJQM9Q_yFn5u9or.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:50 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20251220_182954_714~2.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "HrBkAnmrKxjH4tsIKLLLG",
+          "filename": "HrBkAnmrKxjH4tsIKLLLG.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:52 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20251220_081215_HDR.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "owOAvtlaCjsne3xwbcMVm",
+          "filename": "owOAvtlaCjsne3xwbcMVm.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Oct 30 2025 11:21:43 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 195,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251030_142147_052.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Jv_PGFaL_iB8oOhsOmPV8",
+          "filename": "Jv_PGFaL_iB8oOhsOmPV8.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250820_124519_HDR.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "lajVCZIcN_vbabQuftooT",
+          "filename": "lajVCZIcN_vbabQuftooT.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Nov 22 2025 03:16:28 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251122_061631_104.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "1Re94maYyCAeGEpK1PuFz",
+          "filename": "1Re94maYyCAeGEpK1PuFz.webp",
+          "width": 1600,
+          "height": 2844,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:52 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20230430_133520.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "qTyW2EwknwL6OdPzNNsKT",
+          "filename": "qTyW2EwknwL6OdPzNNsKT.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Mon Nov 03 2025 10:06:58 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251103_130727_571.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "-dMGoN-7FXvSN9tmLM70W",
+          "filename": "-dMGoN-7FXvSN9tmLM70W.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Fri Nov 21 2025 04:53:48 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251121_075351_960.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "zgKFI6zjunuQEeU32kmbc",
+          "filename": "zgKFI6zjunuQEeU32kmbc.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Oct 30 2025 11:27:08 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 158,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251030_142728_911.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "IQriK6brOfA5roE2JwyIb",
+          "filename": "IQriK6brOfA5roE2JwyIb.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sun Nov 30 2025 10:00:49 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.0023,
+            "ISOSpeedRatings": 51,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251130_130054_063.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "YtHn3QG95MwHFv6vcWe7f",
+          "filename": "YtHn3QG95MwHFv6vcWe7f.webp",
+          "width": 1600,
+          "height": 2844,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG-20250629-WA0038.jpeg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Gd13q9VUlbF0pZg3fnO_8",
+          "filename": "Gd13q9VUlbF0pZg3fnO_8.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Nov 22 2025 03:30:54 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251122_063057_836.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "sEf8P-DSs0IsZDKhpY4RM",
+          "filename": "sEf8P-DSs0IsZDKhpY4RM.webp",
+          "width": 1600,
+          "height": 2844,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:27 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/*IMG_20230523_172421-EFFECTS.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "-3otVbIUH2cGenElLmv9K",
+          "filename": "-3otVbIUH2cGenElLmv9K.webp",
+          "width": 1600,
+          "height": 2133,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:53 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_2026-02-06-10-36-24-208.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "VbXVcxQ8Zc0ZMb0msIN4E",
+          "filename": "VbXVcxQ8Zc0ZMb0msIN4E.webp",
+          "width": 1688,
+          "height": 2250,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:53 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20260302_184557_046.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "cSi0-JIPU88UW7X8GfkOq",
+          "filename": "cSi0-JIPU88UW7X8GfkOq.webp",
           "width": 720,
           "height": 1280,
           "album": {
@@ -623,28 +2916,13 @@
             "FNumber": 1.8
           },
           "sourcePath": "earth/IMG_20251122_060705_151.webp",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "jUtoA97d-4-Fh8v3SiL7I",
-          "filename": "jUtoA97d-4-Fh8v3SiL7I.webp",
-          "width": 1600,
-          "height": 3200,
-          "album": {
-            "title": "Earth",
-            "description": "Sorta",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:52 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG_20230114_091958.jpg",
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "oo8qPrdZn4UdXTyEZAzIV",
-          "filename": "oo8qPrdZn4UdXTyEZAzIV.webp",
+          "id": "z6nreXXrIi4XF-Gue2Toh",
+          "filename": "z6nreXXrIi4XF-Gue2Toh.webp",
           "width": 720,
           "height": 1280,
           "album": {
@@ -653,30 +2931,311 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:58:53 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG_20240729_235636_424.webp",
+          "date": "Fri Nov 21 2025 04:52:44 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.01,
+            "ISOSpeedRatings": 58,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251121_075247_271.webp",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
-        }
-      ]
-    },
-    {
-      "album": "Pinned",
-      "description": "The best things that have happened to me",
-      "images": [
+        },
         {
-          "id": "UfirQyc0WjkJqccpVwxbd",
-          "filename": "UfirQyc0WjkJqccpVwxbd.webp",
-          "width": 655,
-          "height": 1203,
+          "id": "qBMUBIyue-5KMBhYp1-3y",
+          "filename": "qBMUBIyue-5KMBhYp1-3y.webp",
+          "width": 720,
+          "height": 1280,
           "album": {
-            "title": "Pinned",
-            "description": "The best things that have happened to me",
+            "title": "Earth",
+            "description": "Sorta",
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:00 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "pinned/IMG_20251130_155455_730~2.jpg",
+          "date": "Sat Nov 22 2025 03:22:02 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251122_062208_296.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "xh4RB35mwdnggN7gqkPgb",
+          "filename": "xh4RB35mwdnggN7gqkPgb.webp",
+          "width": 720,
+          "height": 1440,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:53 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/Screenshot_2024-07-15-22-07-01-652_com.google.android.apps.photos~2.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "-EcL0-Wy3Lp23ihsbdtzx",
+          "filename": "-EcL0-Wy3Lp23ihsbdtzx.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Fri Nov 21 2025 04:57:43 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/*IMG_20251121_075756_484.webp",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "a1LNHAUEi6Mw0fJABMtII",
+          "filename": "a1LNHAUEi6Mw0fJABMtII.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:54 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20251220_183204_236~2.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "QUVsTk-NuylYPuWmf74jx",
+          "filename": "QUVsTk-NuylYPuWmf74jx.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Dec 20 2025 06:23:44 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.0025,
+            "ISOSpeedRatings": 50,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251220_092355_365.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "MGfGIHd3Vn19DcXBv4n_H",
+          "filename": "MGfGIHd3Vn19DcXBv4n_H.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:27 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/*IMG_20230306_145152.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "OcOOZALnQMkCqMRJ0EK5A",
+          "filename": "OcOOZALnQMkCqMRJ0EK5A.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Nov 22 2025 03:10:57 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251122_061102_007.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "UVMAu4eEt5LJ2VBaJVP4t",
+          "filename": "UVMAu4eEt5LJ2VBaJVP4t.webp",
+          "width": 1600,
+          "height": 2843,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:56 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250515_180000.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "qEwsnoxg6Hljy2zisBqGJ",
+          "filename": "qEwsnoxg6Hljy2zisBqGJ.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Fri Nov 21 2025 02:54:26 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251121_055431_264.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "HUjp4MHZFy80LWMh95iZZ",
+          "filename": "HUjp4MHZFy80LWMh95iZZ.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sun Nov 30 2025 11:49:23 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.02,
+            "ISOSpeedRatings": 474,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/IMG_20251130_145332_522.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "5KMTW5j5nfdkUpKFOrpVv",
+          "filename": "5KMTW5j5nfdkUpKFOrpVv.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:56 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20240727_102619_435.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "yhSTexIjdYdgfYJHfkIqH",
+          "filename": "yhSTexIjdYdgfYJHfkIqH.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Nov 22 2025 03:13:50 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "earth/IMG_20251122_061419_873.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "XliNJF1uDGymCJBBKUvBZ",
+          "filename": "XliNJF1uDGymCJBBKUvBZ.webp",
+          "width": 1600,
+          "height": 3200,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:28 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20250103_191123~2.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "jh8F1gIj3EfDoPgboUQFw",
+          "filename": "jh8F1gIj3EfDoPgboUQFw.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Nov 20 2025 08:15:55 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "WhiteBalance": 1,
+            "FocalLength": 4.27,
+            "ExposureTime": 0.0095,
+            "ISOSpeedRatings": 51,
+            "LightSource": 0,
+            "FNumber": 1.8
+          },
+          "sourcePath": "earth/*IMG_20251120_111557_781.webp",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "sXZXPqFonCl8bqE4_VcOk",
+          "filename": "sXZXPqFonCl8bqE4_VcOk.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Earth",
+            "description": "Sorta",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:50:56 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "earth/IMG_20251218_182720_021~2.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         }
@@ -687,8 +3246,8 @@
       "description": "Gave up on cigarettes and drinking",
       "images": [
         {
-          "id": "rJKDH7DIKmYyDFfB2wJ7Y",
-          "filename": "rJKDH7DIKmYyDFfB2wJ7Y.webp",
+          "id": "1riHVVsy2-sBUwgn6MjHf",
+          "filename": "1riHVVsy2-sBUwgn6MjHf.webp",
           "width": 1600,
           "height": 3563,
           "album": {
@@ -697,14 +3256,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:03 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:04 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "life/IMG_20250417_174405~2.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "EJZkLkCKaAQXBS7hn_FrB",
-          "filename": "EJZkLkCKaAQXBS7hn_FrB.webp",
+          "id": "Y2TCWRoZnasg88tyj6cVd",
+          "filename": "Y2TCWRoZnasg88tyj6cVd.webp",
           "width": 1600,
           "height": 3200,
           "album": {
@@ -713,14 +3273,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:03 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:05 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "life/IMG_20241128_173352.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "tWxk0LM5BITJ4_4Du0kDI",
-          "filename": "tWxk0LM5BITJ4_4Du0kDI.webp",
+          "id": "MNodcKybzhUleTjTwZcTo",
+          "filename": "MNodcKybzhUleTjTwZcTo.webp",
           "width": 1600,
           "height": 2125,
           "album": {
@@ -729,14 +3290,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:04 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:06 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "life/IMG_20250328_112223.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "_xj6DnggpHL33t9v2-o2Q",
-          "filename": "_xj6DnggpHL33t9v2-o2Q.webp",
+          "id": "3oIJ17JNjUVWP7AVxVgQr",
+          "filename": "3oIJ17JNjUVWP7AVxVgQr.webp",
           "width": 1600,
           "height": 2844,
           "album": {
@@ -745,14 +3307,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:05 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:06 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "life/IMG-20250510-WA0029.jpeg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "BGsr07tyxH9N7IeW0lYn0",
-          "filename": "BGsr07tyxH9N7IeW0lYn0.webp",
+          "id": "hXtzPodhxnkM-tl8XnVFC",
+          "filename": "hXtzPodhxnkM-tl8XnVFC.webp",
           "width": 1600,
           "height": 3563,
           "album": {
@@ -761,26 +3324,218 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:05 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:07 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "life/IMG_20250430_154903.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "pvGAUZiN0x18uIC3uOjoC",
-          "sourcePath": "life/IMG_20251130_155455_730~2.jpg",
-          "filename": "pvGAUZiN0x18uIC3uOjoC.webp",
-          "width": 655,
-          "height": 1203,
-          "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 23:22:55 GMT-0300 (Brasilia Standard Time)",
-          "license": "CC0",
-          "caption": "",
+          "id": "fQrtJ10Jl2JQBN9a5JvhL",
+          "filename": "fQrtJ10Jl2JQBN9a5JvhL.webp",
+          "width": 1600,
+          "height": 2844,
           "album": {
             "title": "Life",
             "description": "Gave up on cigarettes and drinking",
             "license": "CC0"
-          }
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:08 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG-20260131-WA0004.jpeg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "f-4nNgJ8-masbi241kxQ1",
+          "filename": "f-4nNgJ8-masbi241kxQ1.webp",
+          "width": 1600,
+          "height": 2125,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:08 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG_20260112_134837.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "ns-BikoMtm9JZa4HsRExr",
+          "filename": "ns-BikoMtm9JZa4HsRExr.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:09 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG_20250815_074425.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "zDjfinvOhtBnTD1fdYoiq",
+          "filename": "zDjfinvOhtBnTD1fdYoiq.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/*IMG_20251216_214727.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "_DFWIeNCjUpM9Wd9unPDj",
+          "filename": "_DFWIeNCjUpM9Wd9unPDj.webp",
+          "width": 720,
+          "height": 1440,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/Screenshot_2025-02-13-20-34-44-651_com.google.android.apps.photos.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "4-WOn_qdYpQc6Y-SCMXnF",
+          "filename": "4-WOn_qdYpQc6Y-SCMXnF.webp",
+          "width": 1600,
+          "height": 2844,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:11 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG-20251117-WA0017.jpeg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Mn-x_meHGBfNoMzkA_ojN",
+          "filename": "Mn-x_meHGBfNoMzkA_ojN.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Sat Nov 15 2025 21:27:40 GMT-0300 (Brasilia Standard Time)",
+          "cameraSettings": {
+            "LightSource": 0
+          },
+          "sourcePath": "life/IMG_20251116_002745_038.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "EmCQJYtFObAGtl3EONLbT",
+          "filename": "EmCQJYtFObAGtl3EONLbT.webp",
+          "width": 1600,
+          "height": 1599,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:11 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG_2026-02-24-14-39-14-415~3.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "VJnOMwUAU4PaPVuf7T9Xo",
+          "filename": "VJnOMwUAU4PaPVuf7T9Xo.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:12 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG_20251023_172036.jpg",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "Hqa0Xz1SrC0sClFoVHE7z",
+          "filename": "Hqa0Xz1SrC0sClFoVHE7z.webp",
+          "width": 1024,
+          "height": 1536,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG.png",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "nGTCI8VMhi-aKce2FDxLt",
+          "filename": "nGTCI8VMhi-aKce2FDxLt.webp",
+          "width": 720,
+          "height": 1280,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 20:51:12 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/IMG_20250921_135144_921.webp",
+          "isPinned": false,
+          "caption": "",
+          "license": "CC0"
+        },
+        {
+          "id": "fnnNCSiEbPSon71x6Md5x",
+          "filename": "fnnNCSiEbPSon71x6Md5x.webp",
+          "width": 1600,
+          "height": 3563,
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "camera": "motorola moto g04s",
+          "date": "Thu Apr 16 2026 22:17:30 GMT-0300 (Brasilia Standard Time)",
+          "sourcePath": "life/*IMG_20251222_174745.jpg",
+          "isPinned": true,
+          "caption": "",
+          "license": "CC0"
         }
       ]
     },
@@ -789,8 +3544,8 @@
       "description": "",
       "images": [
         {
-          "id": "1CLgIDz3eQPnQBvGbpLec",
-          "filename": "1CLgIDz3eQPnQBvGbpLec.webp",
+          "id": "mAzsz-wPC9wjL1N8sUd1U",
+          "filename": "mAzsz-wPC9wjL1N8sUd1U.webp",
           "width": 1600,
           "height": 3200,
           "album": {
@@ -799,14 +3554,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:11 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:13 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "eletric-power-grid-expert/IMG_20230713_162152.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "U2lRHifUyFMD67SUHXDKy",
-          "filename": "U2lRHifUyFMD67SUHXDKy.webp",
+          "id": "WMOHY8C9DahCdVE-FVxNd",
+          "filename": "WMOHY8C9DahCdVE-FVxNd.webp",
           "width": 720,
           "height": 1440,
           "album": {
@@ -815,30 +3571,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:11 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:13 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "eletric-power-grid-expert/Screenshot_2024-09-10-15-55-49-828_lockscreen.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "PxTwDpKXqbNL8Y8o2w4C0",
-          "filename": "PxTwDpKXqbNL8Y8o2w4C0.webp",
-          "width": 1600,
-          "height": 3200,
-          "album": {
-            "title": "Eletric power grid expert",
-            "description": "",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:12 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "eletric-power-grid-expert/IMG_20230713_162926.jpg",
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "i6Mo6zysRkX23QpG9BFSo",
-          "filename": "i6Mo6zysRkX23QpG9BFSo.webp",
+          "id": "a5ryryqrmAD3FP4afniK1",
+          "filename": "a5ryryqrmAD3FP4afniK1.webp",
           "width": 720,
           "height": 1440,
           "album": {
@@ -847,14 +3588,15 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 22:59:12 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:14 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "eletric-power-grid-expert/Screenshot_2023-07-13-18-37-29-822_com.google.android.apps.photosgo~2.jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         },
         {
-          "id": "0Hsk5buGQ8D0EI68PaJ4V",
-          "filename": "0Hsk5buGQ8D0EI68PaJ4V.webp",
+          "id": "flJxBKT3AvlNF5yCbqsiR",
+          "filename": "flJxBKT3AvlNF5yCbqsiR.webp",
           "width": 720,
           "height": 1440,
           "album": {
@@ -863,8 +3605,9 @@
             "license": "CC0"
           },
           "camera": "motorola moto g04s",
-          "date": "Sun Apr 12 2026 23:04:01 GMT-0300 (Brasilia Standard Time)",
+          "date": "Thu Apr 16 2026 20:51:14 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "eletric-power-grid-expert/Screenshot_2023-07-07-10-31-30-920_com.google.android.apps.photosgo~3 (Copy).jpg",
+          "isPinned": false,
           "caption": "",
           "license": "CC0"
         }

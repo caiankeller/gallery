@@ -1,3 +1,8 @@
+/* 
+	YES! I rewrite this whole thing because I commited a mistake by commiting to FP
+	in a file this size..
+*/
+
 import fs from "node:fs/promises";
 import path from "node:path";
 import chalk from "chalk";
@@ -10,6 +15,7 @@ import {
 	AlbumMetadataSchema,
 	GalleryManifestSchema,
 	type IGalleryItem,
+	type IGalleryManifest,
 } from "./gallery.schema";
 
 const IMAGES_DIR = "./gallery/images";
@@ -30,17 +36,13 @@ type TAlbumMetadata = z.infer<typeof AlbumMetadataSchema>;
 type IFile = {
 	file: string;
 	album: TAlbumMetadata;
+	isPinned: boolean;
 };
 
 type AlbumGroup = {
 	album: string;
 	description?: string | null;
 	images: IGalleryItem[];
-};
-
-type GalleryManifest = {
-	all: IGalleryItem[];
-	albums: AlbumGroup[];
 };
 
 async function main() {
@@ -50,7 +52,7 @@ async function main() {
 	const allFiles = await collectImageFiles();
 	const items: IGalleryItem[] = [];
 
-	for (const { file, album } of allFiles) {
+	for (const { file, album, isPinned } of allFiles) {
 		const cached = existing.all.find((i) => i.sourcePath === file);
 
 		if (cached) {
@@ -60,7 +62,7 @@ async function main() {
 
 		console.log(chalk.yellow(`Processing new image: ${file}`));
 		const item = await processFile(file, album);
-		if (item) items.push(item);
+		if (item) items.push({ ...item, isPinned });
 	}
 
 	const currentOutputFilenames = new Set(items.map((i) => i.filename));
@@ -76,7 +78,8 @@ async function main() {
 		console.error("Cleanup failed", err);
 	}
 
-	const manifest: GalleryManifest = {
+	const manifest = {
+		pinned: items.filter((item) => item.isPinned),
 		all: items,
 		albums: groupByAlbum(items),
 	};
@@ -97,12 +100,12 @@ async function main() {
 	console.log(`${chalk.red.bold(deleted)} removed from manifest`);
 }
 
-async function loadManifest(): Promise<GalleryManifest> {
+async function loadManifest(): Promise<IGalleryManifest> {
 	try {
 		const raw = await fs.readFile(MANIFEST_PATH, "utf-8");
 		return GalleryManifestSchema.parse(JSON.parse(raw));
 	} catch {
-		return { all: [], albums: [] };
+		return { all: [], pinned: [], albums: [] };
 	}
 }
 
@@ -156,6 +159,7 @@ async function collectImageFiles() {
 
 		for (const file of folderFiles) {
 			const fullPath = path.join(folderPath, file);
+			const isPinned = file.startsWith("*");
 
 			const stat = await fs.stat(fullPath);
 			if (!stat.isFile()) continue;
@@ -164,6 +168,7 @@ async function collectImageFiles() {
 				results.push({
 					file: folder === "." ? file : `${folder}/${file}`,
 					album,
+					isPinned,
 				});
 			}
 		}
@@ -172,10 +177,7 @@ async function collectImageFiles() {
 	return results;
 }
 
-async function processFile(
-	file: string,
-	album: TAlbumMetadata,
-): Promise<IGalleryItem | null> {
+async function processFile(file: string, album: TAlbumMetadata) {
 	const sourcePath = path.join(IMAGES_DIR, file);
 	const id = nanoid();
 	const outputFilename = `${id}.webp`;

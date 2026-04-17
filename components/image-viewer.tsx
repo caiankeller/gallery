@@ -1,14 +1,14 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
-import { Separator } from "@/components/ui/separator";
-import { settings } from "@/config";
-import type { IGalleryItem } from "@/gallery/gallery.schema";
 import { IconX } from "@tabler/icons-react";
 import gsap from "gsap";
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
+import { Button } from "@/components/ui/button";
+import { Separator } from "@/components/ui/separator";
+import { settings } from "@/config";
+import type { IGalleryItem } from "@/gallery/gallery.schema";
 
 interface IProps {
 	image: IGalleryItem;
@@ -159,6 +159,7 @@ export default function ImageViewer({ image }: IProps) {
 							className="fixed inset-0 z-50 cursor-zoom-out"
 							onClick={handleClose}
 							onKeyDown={(e) => {
+								console.log(e.key);
 								if (e.key === "Escape") {
 									e.preventDefault();
 									handleClose();
