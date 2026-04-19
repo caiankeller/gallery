@@ -68,7 +68,7 @@ const settings: ISettings = {
 	 * prevents that specific icon/link from rendering.
 	 */
 	social: {
-		pinterest: "https://br.pinterest.com/caiankeller/_profile/_created/",
+		pinterest: null,
 		github: "https://github.com/caiankeller",
 		instagram: null,
 		unsplash: null,
