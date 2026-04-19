@@ -2,11 +2,11 @@ import { z } from "zod";
 import settings from "../config/settings.ts";
 
 export const LicenseSchema = z.enum([
-	"ALL_RIGHTS_RESERVED",
-	"CC_BY",
-	"CC_BY_NC",
 	"CC0",
-	"COMMERCIAL",
+	"CC_BY",
+	"CC_BY_SA",
+	"CC_BY_NC",
+	"CC_BY_ND",
 ]);
 
 export const AlbumMetadataSchema = z.object({
