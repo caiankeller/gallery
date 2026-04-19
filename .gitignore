@@ -30,10 +30,14 @@ pnpm-debug.log*
 
 # env files
 .env*.local
+/.vercel/
+/.vscode/
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
 
-/gallery/images/*
+# gallery
+/gallery/images/
 !/gallery/images/album.json
+
