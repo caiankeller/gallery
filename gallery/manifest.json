@@ -18,40 +18,6 @@
       "license": "CC0"
     },
     {
-      "id": "_-Wj4Icjx2vq6eJmV39Kb",
-      "sourcePath": "agnes/*IMG_2026-02-10-13-43-59-202.jpg",
-      "filename": "_-Wj4Icjx2vq6eJmV39Kb.webp",
-      "width": 1600,
-      "height": 2844,
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 23:04:28 GMT-0300 (Brasilia Standard Time)",
-      "license": "CC0",
-      "caption": "",
-      "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
-        "license": "CC0"
-      },
-      "isPinned": true
-    },
-    {
-      "id": "XeT0WpbqGEKKZiR3P3Dkz",
-      "filename": "XeT0WpbqGEKKZiR3P3Dkz.webp",
-      "width": 655,
-      "height": 1203,
-      "album": {
-        "title": "Earth",
-        "description": "Sorta",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/*IMG_20251130_155455_730~2.jpg",
-      "isPinned": true,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
       "id": "Dp5pgfMQ-qnWtR_QPX49H",
       "filename": "Dp5pgfMQ-qnWtR_QPX49H.webp",
       "width": 1600,
@@ -168,21 +134,21 @@
       "license": "CC0"
     },
     {
-      "id": "zDjfinvOhtBnTD1fdYoiq",
-      "filename": "zDjfinvOhtBnTD1fdYoiq.webp",
+      "id": "4EumWJrRGmJE4brPepcsV",
+      "sourcePath": "life/*IMG_2026-02-24-14-39-14-415~3.jpg",
+      "filename": "4EumWJrRGmJE4brPepcsV.webp",
       "width": 1600,
-      "height": 3563,
+      "height": 1599,
+      "camera": "motorola moto g04s",
+      "date": "Mon Apr 20 2026 10:52:39 GMT-0300 (Brasilia Standard Time)",
+      "license": "CC0",
+      "caption": "",
       "album": {
         "title": "Life",
         "description": "Gave up on cigarettes and drinking",
         "license": "CC0"
       },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "life/*IMG_20251216_214727.jpg",
-      "isPinned": true,
-      "caption": "",
-      "license": "CC0"
+      "isPinned": true
     },
     {
       "id": "fnnNCSiEbPSon71x6Md5x",
@@ -323,74 +289,6 @@
       "license": "CC0"
     },
     {
-      "id": "KGThALHQBLzhiZysk5xc0",
-      "filename": "KGThALHQBLzhiZysk5xc0.webp",
-      "width": 1600,
-      "height": 2843,
-      "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 20:50:44 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG_20250507_132921.jpg",
-      "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "_-Wj4Icjx2vq6eJmV39Kb",
-      "sourcePath": "agnes/*IMG_2026-02-10-13-43-59-202.jpg",
-      "filename": "_-Wj4Icjx2vq6eJmV39Kb.webp",
-      "width": 1600,
-      "height": 2844,
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 23:04:28 GMT-0300 (Brasilia Standard Time)",
-      "license": "CC0",
-      "caption": "",
-      "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
-        "license": "CC0"
-      },
-      "isPinned": true
-    },
-    {
-      "id": "6M_XcGWtzPUujbjvSfDYr",
-      "filename": "6M_XcGWtzPUujbjvSfDYr.webp",
-      "width": 1600,
-      "height": 2844,
-      "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG-20250516-WA0017.jpeg",
-      "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "V-jDgSEEDmlQ10cW-2ttj",
-      "filename": "V-jDgSEEDmlQ10cW-2ttj.webp",
-      "width": 1600,
-      "height": 2844,
-      "album": {
-        "title": "Agnes",
-        "description": "Just Agnes",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "agnes/IMG-20250509-WA0026.jpeg",
-      "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
       "id": "rEWgBe73FXCR_Ptf3DdhX",
       "filename": "rEWgBe73FXCR_Ptf3DdhX.webp",
       "width": 720,
@@ -513,23 +411,6 @@
       },
       "sourcePath": "earth/IMG_20251130_143714_296.webp",
       "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "XeT0WpbqGEKKZiR3P3Dkz",
-      "filename": "XeT0WpbqGEKKZiR3P3Dkz.webp",
-      "width": 655,
-      "height": 1203,
-      "album": {
-        "title": "Earth",
-        "description": "Sorta",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/*IMG_20251130_155455_730~2.jpg",
-      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
@@ -957,23 +838,6 @@
       "license": "CC0"
     },
     {
-      "id": "Jv_PGFaL_iB8oOhsOmPV8",
-      "filename": "Jv_PGFaL_iB8oOhsOmPV8.webp",
-      "width": 1600,
-      "height": 3563,
-      "album": {
-        "title": "Earth",
-        "description": "Sorta",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG_20250820_124519_HDR.jpg",
-      "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
       "id": "lajVCZIcN_vbabQuftooT",
       "filename": "lajVCZIcN_vbabQuftooT.webp",
       "width": 720,
@@ -1096,23 +960,6 @@
         "FNumber": 1.8
       },
       "sourcePath": "earth/IMG_20251130_130054_063.webp",
-      "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "YtHn3QG95MwHFv6vcWe7f",
-      "filename": "YtHn3QG95MwHFv6vcWe7f.webp",
-      "width": 1600,
-      "height": 2844,
-      "album": {
-        "title": "Earth",
-        "description": "Sorta",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "earth/IMG-20250629-WA0038.jpeg",
       "isPinned": false,
       "caption": "",
       "license": "CC0"
@@ -1635,6 +1482,23 @@
       "license": "CC0"
     },
     {
+      "id": "4EumWJrRGmJE4brPepcsV",
+      "sourcePath": "life/*IMG_2026-02-24-14-39-14-415~3.jpg",
+      "filename": "4EumWJrRGmJE4brPepcsV.webp",
+      "width": 1600,
+      "height": 1599,
+      "camera": "motorola moto g04s",
+      "date": "Mon Apr 20 2026 10:52:39 GMT-0300 (Brasilia Standard Time)",
+      "license": "CC0",
+      "caption": "",
+      "album": {
+        "title": "Life",
+        "description": "Gave up on cigarettes and drinking",
+        "license": "CC0"
+      },
+      "isPinned": true
+    },
+    {
       "id": "f-4nNgJ8-masbi241kxQ1",
       "filename": "f-4nNgJ8-masbi241kxQ1.webp",
       "width": 1600,
@@ -1665,23 +1529,6 @@
       "date": "Thu Apr 16 2026 20:51:09 GMT-0300 (Brasilia Standard Time)",
       "sourcePath": "life/IMG_20250815_074425.jpg",
       "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "zDjfinvOhtBnTD1fdYoiq",
-      "filename": "zDjfinvOhtBnTD1fdYoiq.webp",
-      "width": 1600,
-      "height": 3563,
-      "album": {
-        "title": "Life",
-        "description": "Gave up on cigarettes and drinking",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "life/*IMG_20251216_214727.jpg",
-      "isPinned": true,
       "caption": "",
       "license": "CC0"
     },
@@ -1735,23 +1582,6 @@
         "LightSource": 0
       },
       "sourcePath": "life/IMG_20251116_002745_038.webp",
-      "isPinned": false,
-      "caption": "",
-      "license": "CC0"
-    },
-    {
-      "id": "EmCQJYtFObAGtl3EONLbT",
-      "filename": "EmCQJYtFObAGtl3EONLbT.webp",
-      "width": 1600,
-      "height": 1599,
-      "album": {
-        "title": "Life",
-        "description": "Gave up on cigarettes and drinking",
-        "license": "CC0"
-      },
-      "camera": "motorola moto g04s",
-      "date": "Thu Apr 16 2026 20:51:11 GMT-0300 (Brasilia Standard Time)",
-      "sourcePath": "life/IMG_2026-02-24-14-39-14-415~3.jpg",
       "isPinned": false,
       "caption": "",
       "license": "CC0"
@@ -2020,80 +1850,6 @@
       ]
     },
     {
-      "album": "Agnes",
-      "description": "Just Agnes",
-      "images": [
-        {
-          "id": "KGThALHQBLzhiZysk5xc0",
-          "filename": "KGThALHQBLzhiZysk5xc0.webp",
-          "width": 1600,
-          "height": 2843,
-          "album": {
-            "title": "Agnes",
-            "description": "Just Agnes",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 20:50:44 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "agnes/IMG_20250507_132921.jpg",
-          "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "_-Wj4Icjx2vq6eJmV39Kb",
-          "sourcePath": "agnes/*IMG_2026-02-10-13-43-59-202.jpg",
-          "filename": "_-Wj4Icjx2vq6eJmV39Kb.webp",
-          "width": 1600,
-          "height": 2844,
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 23:04:28 GMT-0300 (Brasilia Standard Time)",
-          "license": "CC0",
-          "caption": "",
-          "album": {
-            "title": "Agnes",
-            "description": "Just Agnes",
-            "license": "CC0"
-          },
-          "isPinned": true
-        },
-        {
-          "id": "6M_XcGWtzPUujbjvSfDYr",
-          "filename": "6M_XcGWtzPUujbjvSfDYr.webp",
-          "width": 1600,
-          "height": 2844,
-          "album": {
-            "title": "Agnes",
-            "description": "Just Agnes",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "agnes/IMG-20250516-WA0017.jpeg",
-          "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "V-jDgSEEDmlQ10cW-2ttj",
-          "filename": "V-jDgSEEDmlQ10cW-2ttj.webp",
-          "width": 1600,
-          "height": 2844,
-          "album": {
-            "title": "Agnes",
-            "description": "Just Agnes",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 20:50:45 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "agnes/IMG-20250509-WA0026.jpeg",
-          "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        }
-      ]
-    },
-    {
       "album": "Earth",
       "description": "Sorta",
       "images": [
@@ -2220,23 +1976,6 @@
           },
           "sourcePath": "earth/IMG_20251130_143714_296.webp",
           "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "XeT0WpbqGEKKZiR3P3Dkz",
-          "filename": "XeT0WpbqGEKKZiR3P3Dkz.webp",
-          "width": 655,
-          "height": 1203,
-          "album": {
-            "title": "Earth",
-            "description": "Sorta",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 22:17:21 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/*IMG_20251130_155455_730~2.jpg",
-          "isPinned": true,
           "caption": "",
           "license": "CC0"
         },
@@ -2664,23 +2403,6 @@
           "license": "CC0"
         },
         {
-          "id": "Jv_PGFaL_iB8oOhsOmPV8",
-          "filename": "Jv_PGFaL_iB8oOhsOmPV8.webp",
-          "width": 1600,
-          "height": 3563,
-          "album": {
-            "title": "Earth",
-            "description": "Sorta",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG_20250820_124519_HDR.jpg",
-          "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
           "id": "lajVCZIcN_vbabQuftooT",
           "filename": "lajVCZIcN_vbabQuftooT.webp",
           "width": 720,
@@ -2803,23 +2525,6 @@
             "FNumber": 1.8
           },
           "sourcePath": "earth/IMG_20251130_130054_063.webp",
-          "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "YtHn3QG95MwHFv6vcWe7f",
-          "filename": "YtHn3QG95MwHFv6vcWe7f.webp",
-          "width": 1600,
-          "height": 2844,
-          "album": {
-            "title": "Earth",
-            "description": "Sorta",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 22:17:26 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "earth/IMG-20250629-WA0038.jpeg",
           "isPinned": false,
           "caption": "",
           "license": "CC0"
@@ -3348,6 +3053,23 @@
           "license": "CC0"
         },
         {
+          "id": "4EumWJrRGmJE4brPepcsV",
+          "sourcePath": "life/*IMG_2026-02-24-14-39-14-415~3.jpg",
+          "filename": "4EumWJrRGmJE4brPepcsV.webp",
+          "width": 1600,
+          "height": 1599,
+          "camera": "motorola moto g04s",
+          "date": "Mon Apr 20 2026 10:52:39 GMT-0300 (Brasilia Standard Time)",
+          "license": "CC0",
+          "caption": "",
+          "album": {
+            "title": "Life",
+            "description": "Gave up on cigarettes and drinking",
+            "license": "CC0"
+          },
+          "isPinned": true
+        },
+        {
           "id": "f-4nNgJ8-masbi241kxQ1",
           "filename": "f-4nNgJ8-masbi241kxQ1.webp",
           "width": 1600,
@@ -3378,23 +3100,6 @@
           "date": "Thu Apr 16 2026 20:51:09 GMT-0300 (Brasilia Standard Time)",
           "sourcePath": "life/IMG_20250815_074425.jpg",
           "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "zDjfinvOhtBnTD1fdYoiq",
-          "filename": "zDjfinvOhtBnTD1fdYoiq.webp",
-          "width": 1600,
-          "height": 3563,
-          "album": {
-            "title": "Life",
-            "description": "Gave up on cigarettes and drinking",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 22:17:29 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "life/*IMG_20251216_214727.jpg",
-          "isPinned": true,
           "caption": "",
           "license": "CC0"
         },
@@ -3448,23 +3153,6 @@
             "LightSource": 0
           },
           "sourcePath": "life/IMG_20251116_002745_038.webp",
-          "isPinned": false,
-          "caption": "",
-          "license": "CC0"
-        },
-        {
-          "id": "EmCQJYtFObAGtl3EONLbT",
-          "filename": "EmCQJYtFObAGtl3EONLbT.webp",
-          "width": 1600,
-          "height": 1599,
-          "album": {
-            "title": "Life",
-            "description": "Gave up on cigarettes and drinking",
-            "license": "CC0"
-          },
-          "camera": "motorola moto g04s",
-          "date": "Thu Apr 16 2026 20:51:11 GMT-0300 (Brasilia Standard Time)",
-          "sourcePath": "life/IMG_2026-02-24-14-39-14-415~3.jpg",
           "isPinned": false,
           "caption": "",
           "license": "CC0"
