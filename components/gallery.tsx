@@ -1,13 +1,20 @@
+"use client";
+
 import React from "react";
+import type { TView } from "@/app/page";
 import ImageViewer from "@/components/image-viewer";
 import type { IGalleryManifest } from "@/gallery/gallery.schema";
+import ViewSwitcher from "./view-switcher";
 
 type TProps = {
-	view: "all" | "albums";
 	manifest: IGalleryManifest;
 };
 
-export default async function Gallery({ view, manifest }: TProps) {
+export default function Gallery({ manifest }: TProps) {
+	const [view, setView] = React.useState<TView>("all");
+
+	const albumCount = manifest.albums.length;
+
 	const albums =
 		view === "all"
 			? [
@@ -29,7 +36,12 @@ export default async function Gallery({ view, manifest }: TProps) {
 				];
 
 	return (
-		<React.Fragment>
+		<div className="container mx-auto py-16">
+			<ViewSwitcher
+				albumsCount={albumCount}
+				currentView={view}
+				onViewChange={(view) => setView(view)}
+			/>
 			{albums.map(
 				(album) =>
 					Boolean(album.images.length) && (
@@ -49,15 +61,15 @@ export default async function Gallery({ view, manifest }: TProps) {
 							</div>
 
 							<div className="columns-1 gap-4 sm:columns-2 md:columns-3 lg:columns-4">
-								{album.images.map((image) => (
+								{album.images.map((image, index) => (
 									<div className="mb-4 break-inside-avoid" key={image.id}>
-										<ImageViewer image={image} />
+										<ImageViewer image={image} index={index + 1} />
 									</div>
 								))}
 							</div>
 						</div>
 					),
 			)}
-		</React.Fragment>
+		</div>
 	);
 }

@@ -1,31 +1,19 @@
 import Gallery from "@/components/gallery";
 import Social from "@/components/social";
-import ViewSwitcher from "@/components/view-switcher";
 import { settings } from "@/config";
 import { GalleryManifestSchema } from "@/gallery/gallery.schema";
 import manifest from "@/gallery/manifest.json";
 
 export type TView = "albums" | "all";
 
-type TProps = {
-	searchParams: Promise<{
-		view?: string;
-	}>;
-};
-
 const galleryManifest = GalleryManifestSchema.parse(manifest);
 
-export default async function Page({ searchParams }: TProps) {
+export default async function Page() {
 	const { name, motto } = settings;
-
-	const { view } = await searchParams;
-
-	const currentView: TView = view === "albums" ? "albums" : "all";
-	const albumCount = galleryManifest.albums.length;
 
 	return (
 		<main>
-			<div className="flex h-[40svh] flex-col items-center justify-center space-y-4">
+			<div className="flex h-[40svh] flex-col items-center justify-center space-y-4 px-6">
 				<Social />
 
 				<div className="space-y-2">
@@ -44,10 +32,7 @@ export default async function Page({ searchParams }: TProps) {
 				</div>
 			</div>
 
-			<div className="container mx-auto py-16">
-				<ViewSwitcher albumsCount={albumCount} currentView={currentView} />
-				<Gallery manifest={galleryManifest} view={currentView} />
-			</div>
+			<Gallery manifest={galleryManifest} />
 		</main>
 	);
 }
