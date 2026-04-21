@@ -126,12 +126,28 @@ export default function ImageViewer({ image }: IProps) {
 				ref={wrapRef}
 				type="button"
 			>
+				{/*
+				 * Due to masonry behavior, I can't predict what images will be at the top of the screen
+				 * Removing priority from next/image for now to see if a native loading strategy
+				 * achieves a better result.
+				 *
+				 * Have just a glimpse into my dark and twisted mind, masonry reorders the DOM in a way that
+				 * breaks standard top-to-bottom priority
+				 *
+				 * * Standard Grid           Masonry (Desktop)          Small Viewports
+				 * 		1 2 3	                    1 4 7                    1
+				 * 		4 5 6    	                2 5 8                    2
+				 * 		7 8 9       	            3 6 9                    3
+				 * 				   										     4...
+				 * Huge pain, this layout mismatch makes prioritizing images high in the
+				 * viewport difficult at build time and breaks the ability to order images
+				 * by any consistent metric
+				 */}
 				<Image
 					// not the best, but a little better
 					alt={image.caption ?? ""}
 					className="block h-auto w-full"
 					height={image.height}
-					priority={true}
 					src={`/images/${image.filename}`}
 					width={image.width}
 				/>
