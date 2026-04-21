@@ -12,9 +12,10 @@ import type { IGalleryItem } from "@/gallery/gallery.schema";
 
 interface IProps {
 	image: IGalleryItem;
+	index: number;
 }
 
-export default function ImageViewer({ image }: IProps) {
+export default function ImageViewer({ image, index }: IProps) {
 	const { hideMetadata } = settings;
 	const [isModalOpen, setIsModalOpen] = useState(false);
 	const [mounted, setMounted] = useState(false);
@@ -121,6 +122,7 @@ export default function ImageViewer({ image }: IProps) {
 	return (
 		<div className="group relative break-inside-avoid">
 			<button
+				aria-label={`Open image ${index}${image.caption ? `: ${image.caption}` : ""}`}
 				className="group/image relative w-full cursor-zoom-in overflow-hidden bg-muted"
 				onClick={() => setIsModalOpen(true)}
 				ref={wrapRef}
@@ -149,6 +151,7 @@ export default function ImageViewer({ image }: IProps) {
 					className="block h-auto w-full"
 					height={image.height}
 					src={`/images/${image.filename}`}
+					unoptimized
 					width={image.width}
 				/>
 				{image.caption && (

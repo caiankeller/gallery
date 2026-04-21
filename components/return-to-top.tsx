@@ -42,13 +42,13 @@ export default function ReturnToTop() {
 
 	return (
 		<div
-			className="pointer-events-none fixed right-4 bottom-4 z-50 translate-y-10 scale-50 opacity-0"
+			className="pointer-events-none fixed right-2 bottom-2 z-50 translate-y-10 scale-50 opacity-0"
 			ref={containerRef}
 		>
 			<Button
 				className="pointer-events-auto shadow-lg"
 				onClick={handleScroll}
-				variant="secondary"
+				size="sm"
 			>
 				Go back to the top <IconArrowUp />
 			</Button>
