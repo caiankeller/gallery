@@ -14,7 +14,7 @@ interface IProps {
 export default function ScrollSmootherWrapper({ children }: IProps) {
 	useGSAP(() => {
 		ScrollSmoother.create({
-			smooth: 2,
+			smooth: 3,
 			effects: true,
 			smoothTouch: 0.5,
 		});

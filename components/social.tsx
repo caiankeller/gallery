@@ -53,10 +53,7 @@ export default function Social() {
 	}
 
 	return (
-		<div
-			className="flex flex-wrap justify-center gap-1.5 gap-y-2.5"
-			data-speed="0.95"
-		>
+		<div className="flex flex-wrap gap-3">
 			{email && (
 				<Button asChild className="group" size="sm" variant="link">
 					<Link href={`mailto:${email}`}>
