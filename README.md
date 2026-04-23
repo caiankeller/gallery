@@ -105,3 +105,5 @@ This project supports several **Creative Commons** options to define how your ph
 - **CC BY-ND (No-Derivatives):** No editing or transformations allowed.
 
 You can set a global default in `settings.ts` or override it per album in `album.json`. You can also manually edit the generated `manifest.json`, but be aware that **re-syncing will overwrite these manual changes.** If you don't need licensing info, set it to **CC0** and hide the display in the settings.
+
+### The Gallery source code itself is licensed under the [MIT License](LICENSE)
