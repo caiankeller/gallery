@@ -13,23 +13,19 @@ export default async function Page() {
 
 	return (
 		<main>
-			<div className="flex h-[40svh] flex-col items-center justify-center space-y-4 px-6">
-				<Social />
-
+			<div
+				className="container flex flex-col justify-center space-y-4 py-12"
+				
+			>
 				<div className="space-y-2">
+					<h1 className="font-bold text-2xl">{name}&apos;s Gallery</h1>
 					{motto && (
-						<p
-							className="max-w-3xl text-center font-medium text-lg text-muted-foreground"
-							data-speed="0.8"
-						>
+						<p className="max-w-3xl font-medium text-muted-foreground">
 							{motto}
 						</p>
 					)}
-
-					<h1 className="text-center font-bold text-4xl" data-speed="0.75">
-						{name}&apos;s Gallery
-					</h1>
 				</div>
+				<Social />
 			</div>
 
 			<Gallery manifest={galleryManifest} />

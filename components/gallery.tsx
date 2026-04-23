@@ -36,7 +36,7 @@ export default function Gallery({ manifest }: TProps) {
 				];
 
 	return (
-		<div className="container mx-auto py-16">
+		<div className="container mx-auto py-8">
 			<ViewSwitcher
 				albumsCount={albumCount}
 				currentView={view}
@@ -63,8 +63,8 @@ export default function Gallery({ manifest }: TProps) {
 							<div className="columns-1 gap-4 sm:columns-2 md:columns-3 lg:columns-4">
 								{album.images.map((image, index) => (
 									<div className="mb-4 break-inside-avoid" key={image.id}>
-										<ImageViewer image={image} index={index + 1} />
-									</div>
+											<ImageViewer image={image} index={index + 1} />
+										</div>
 								))}
 							</div>
 						</div>
