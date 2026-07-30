@@ -70,7 +70,7 @@ const settings: ISettings = {
 	social: {
 		pinterest: null,
 		github: "https://github.com/caiankeller",
-		instagram: null,
+		instagram: "https://instagram.com/caiankeller",
 		unsplash: null,
 		behance: null,
 	},
